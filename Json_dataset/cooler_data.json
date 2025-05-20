@@ -1,0 +1,268 @@
+[
+    {
+        "Model": "ARCTIC Liquid Freezer III 360mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 402,
+        "Performance": 1.0,
+        "Price ($)": 148.83
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 360mm",
+        "Type": "Liquid",
+        "Cooling (RPM)": 401,
+        "Performance": 1.0,
+        "Price ($)": null
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 360mm RGB White",
+        "Type": "Liquid",
+        "Cooling (RPM)": 397,
+        "Performance": 0.99,
+        "Price ($)": 146.82
+    },
+    {
+        "Model": "ID-COOLING FROSTFLOW 240mm White",
+        "Type": "Liquid",
+        "Cooling (RPM)": 378,
+        "Performance": 0.94,
+        "Price ($)": 52.24
+    },
+    {
+        "Model": "Thermalright Frozen Notte 240mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 376,
+        "Performance": 0.94,
+        "Price ($)": 47.19
+    },
+    {
+        "Model": "CORSAIR iCUE Link H150i LCD 360mm RGB White",
+        "Type": "Liquid",
+        "Cooling (RPM)": 370,
+        "Performance": 0.92,
+        "Price ($)": null
+    },
+    {
+        "Model": "Corsair iCUE H150i Elite 360mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 368,
+        "Performance": 0.92,
+        "Price ($)": null
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 360mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 365,
+        "Performance": 0.91,
+        "Price ($)": 148.83
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 360mm",
+        "Type": "Liquid",
+        "Cooling (RPM)": 364,
+        "Performance": 0.91,
+        "Price ($)": null
+    },
+    {
+        "Model": "CORSAIR H100i Elite 240mm RGB White",
+        "Type": "Liquid",
+        "Cooling (RPM)": 361,
+        "Performance": 0.9,
+        "Price ($)": 109.99
+    },
+    {
+        "Model": "CORSAIR iCUE Link H100i 240mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 353,
+        "Performance": 0.88,
+        "Price ($)": null
+    },
+    {
+        "Model": "Cooler Master Atmos 360mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 342,
+        "Performance": 0.85,
+        "Price ($)": 146.99
+    },
+    {
+        "Model": "NZXT Kraken 240mm",
+        "Type": "Liquid",
+        "Cooling (RPM)": 326,
+        "Performance": 0.81,
+        "Price ($)": 129.99
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 280mm",
+        "Type": "Liquid",
+        "Cooling (RPM)": 315,
+        "Performance": 0.78,
+        "Price ($)": 86.23
+    },
+    {
+        "Model": "Thermalright PS120SE",
+        "Type": "Air",
+        "Cooling (RPM)": 289,
+        "Performance": 0.72,
+        "Price ($)": 35.9
+    },
+    {
+        "Model": "Thermalright Phantom Spirit 120SE",
+        "Type": "Air",
+        "Cooling (RPM)": 288,
+        "Performance": 0.72,
+        "Price ($)": 35.9
+    },
+    {
+        "Model": "Corsair iCUE H150i Elite LCD XT 360mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 283,
+        "Performance": 0.7,
+        "Price ($)": 282.72
+    },
+    {
+        "Model": "Cooler Master MasterLiquid V2 240mm RGB",
+        "Type": "Liquid",
+        "Cooling (RPM)": 276,
+        "Performance": 0.69,
+        "Price ($)": 89.59
+    },
+    {
+        "Model": "ARCTIC Liquid Freezer III 240mm",
+        "Type": "Liquid",
+        "Cooling (RPM)": 274,
+        "Performance": 0.68,
+        "Price ($)": null
+    },
+    {
+        "Model": "Noctua NH-D15 chromax.Black",
+        "Type": "Air",
+        "Cooling (RPM)": 265,
+        "Performance": 0.66,
+        "Price ($)": 139.95
+    },
+    {
+        "Model": "Thermalright Peerless Assassin 120 SE",
+        "Type": "Air",
+        "Cooling (RPM)": 261,
+        "Performance": 0.65,
+        "Price ($)": 34.9
+    },
+    {
+        "Model": "be quiet! Dark Rock Pro 5",
+        "Type": "Air",
+        "Cooling (RPM)": 221,
+        "Performance": 0.55,
+        "Price ($)": 104.8
+    },
+    {
+        "Model": "Thermalright Phantom Spirit 120 SE RGB",
+        "Type": "Air",
+        "Cooling (RPM)": 183,
+        "Performance": 0.46,
+        "Price ($)": 37.9
+    },
+    {
+        "Model": "Thermalright Phantom Spirit 120 EVO",
+        "Type": "Air",
+        "Cooling (RPM)": 180,
+        "Performance": 0.45,
+        "Price ($)": 49.9
+    },
+    {
+        "Model": "Cooler Master Hyper 212 Halo RGB",
+        "Type": "Air",
+        "Cooling (RPM)": 156,
+        "Performance": 0.39,
+        "Price ($)": 33.1
+    },
+    {
+        "Model": "Cooler Master Hyper 212 Spectrum V3 RGB",
+        "Type": "Air",
+        "Cooling (RPM)": 154,
+        "Performance": 0.38,
+        "Price ($)": 17.5
+    },
+    {
+        "Model": "Cooler Master Hyper 212 Black",
+        "Type": "Air",
+        "Cooling (RPM)": 152,
+        "Performance": 0.38,
+        "Price ($)": 29.99
+    },
+    {
+        "Model": "Thermalright Peerless Assassin 120 SE RGB White",
+        "Type": "Air",
+        "Cooling (RPM)": 141,
+        "Performance": 0.35,
+        "Price ($)": 43.9
+    },
+    {
+        "Model": "Thermalright Peerless Assassin 120 SE RGB",
+        "Type": "Air",
+        "Cooling (RPM)": 140,
+        "Performance": 0.35,
+        "Price ($)": 36.9
+    },
+    {
+        "Model": "Noctua NH-D15",
+        "Type": "Air",
+        "Cooling (RPM)": 139,
+        "Performance": 0.35,
+        "Price ($)": 139.95
+    },
+    {
+        "Model": "Noctua NH-U9S",
+        "Type": "Air",
+        "Cooling (RPM)": 138,
+        "Performance": 0.34,
+        "Price ($)": 69.95
+    },
+    {
+        "Model": "Thermalright Assassin X120 Refined SE",
+        "Type": "Air",
+        "Cooling (RPM)": 137,
+        "Performance": 0.34,
+        "Price ($)": 17.9
+    },
+    {
+        "Model": "Noctua NH-U12A chromax.Black",
+        "Type": "Air",
+        "Cooling (RPM)": 135,
+        "Performance": 0.34,
+        "Price ($)": 139.95
+    },
+    {
+        "Model": "Noctua NH-D15",
+        "Type": "Air",
+        "Cooling (RPM)": 134,
+        "Performance": 0.33,
+        "Price ($)": 129.95
+    },
+    {
+        "Model": "Thermalright Phantom Spirit 120 EVO",
+        "Type": "Air",
+        "Cooling (RPM)": 133,
+        "Performance": 0.33,
+        "Price ($)": 49.9
+    },
+    {
+        "Model": "ID-COOLING SE-214-XT ARGB 120 RGB",
+        "Type": "Air",
+        "Cooling (RPM)": 132,
+        "Performance": 0.33,
+        "Price ($)": 17.99
+    },
+    {
+        "Model": "be quiet! Pure Rock 2",
+        "Type": "Air",
+        "Cooling (RPM)": 126,
+        "Performance": 0.31,
+        "Price ($)": 70.0
+    },
+    {
+        "Model": "Thermalright Peerless Assassin 120 Black",
+        "Type": "Air",
+        "Cooling (RPM)": 117,
+        "Performance": 0.29,
+        "Price ($)": 48.9
+    }
+]

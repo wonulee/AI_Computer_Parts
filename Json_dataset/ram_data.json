@@ -1,0 +1,767 @@
+[
+    {
+        "Model": "TEAMGROUP T-Create Expert DDR5 32GB (2x16GB) 7200MHz CL34",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 7200,
+        "Performance": 1.0,
+        "Price ($)": 108.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) 7200MHz CL34",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 7200,
+        "Performance": 1.0,
+        "Price ($)": 144.99
+    },
+    {
+        "Model": "TEAMGROUP T-Force Delta RGB DDR5 32GB (2x16GB) 7200MHz CL34 White",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 7200,
+        "Performance": 1.0,
+        "Price ($)": 124.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 RGB DDR5 32GB (2x16GB) 7200MHz CL34",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 7200,
+        "Performance": 1.0,
+        "Price ($)": 134.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 64GB (2x32GB) 6400MHz CL32",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6400,
+        "Performance": 0.89,
+        "Price ($)": 239.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 RGB DDR5 64GB (2x32GB) 6400MT/s CL32",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6400,
+        "Performance": 0.89,
+        "Price ($)": 218.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 64GB (2x32GB) 6400MHz CL32",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6400,
+        "Performance": 0.89,
+        "Price ($)": 249.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) 6000MHz CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 119.99
+    },
+    {
+        "Model": "G.SKILL Flare X5 DDR5 64GB (2x32GB) 6000MHz CL30",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 194.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 64GB (2x32GB) 6000MHz CL30 White",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 239.99
+    },
+    {
+        "Model": "CORSAIR Vengeance DDR5 32GB (2x16GB) 6000MHz CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 124.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 Neo RGB DDR5 64GB (2x32GB) 6000MT/s CL30",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 209.99
+    },
+    {
+        "Model": "TEAMGROUP T-Create Expert DDR5 32GB (2x16GB) 6000MHz CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 92.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 Neo DDR5 64GB (2x32GB) 6000MHz CL30",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 204.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 Neo RGB DDR5 64GB (2x32GB) 6000MHz CL30 White",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 239.99
+    },
+    {
+        "Model": "G.SKILL Flare X5 DDR5 32GB (2x16GB) 6000MT/s CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 99.99
+    },
+    {
+        "Model": "TEAMGROUP T-Force Delta RGB DDR5 32GB (2x16GB) 6000MHz CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 102.99
+    },
+    {
+        "Model": "CORSAIR Vengeance DDR5 32GB (2x16GB) 6000MHz CL30 Gray",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 109.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 Neo RGB DDR5 32GB (2x16GB) 6000MT/s CL30",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 114.99
+    },
+    {
+        "Model": "TEAMGROUP T-Force Delta RGB DDR5 32GB (2x16GB) 6000MHz CL30 White",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.86,
+        "Price ($)": 102.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) 6400MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6400,
+        "Performance": 0.84,
+        "Price ($)": 95.99
+    },
+    {
+        "Model": "Crucial Pro DDR5 32GB (2x16GB) 6000MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 89.99
+    },
+    {
+        "Model": "Kingston FURY Beast 16GB (2x8GB) 6000MT/s DDR5 CL36 RGB",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 72.99
+    },
+    {
+        "Model": "G.SKILL Trident Z5 Neo RGB DDR5 32GB (2x16GB) 6000MT/s CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 94.99
+    },
+    {
+        "Model": "G.SKILL Flare X5 DDR5 32GB (2x16GB) 6000MT/s CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 81.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2-16GB) 6000MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 93.99
+    },
+    {
+        "Model": "G.Skill Ripjaws S5 DDR5 32GB (2x16GB) 6000MT/s CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 89.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 32GB (2x16GB) 6000MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 125.26
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB-DDR5 32GB (2x16GB) 6000MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.78,
+        "Price ($)": 91.55
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) 6000MHz CL40",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 6000,
+        "Performance": 0.74,
+        "Price ($)": 121.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 64GB (2x32GB) 6000MHz CL40",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 6000,
+        "Performance": 0.74,
+        "Price ($)": 169.99
+    },
+    {
+        "Model": "Kingston FURY Beast RGB DDR5 16GB (2x8GB) 5600MHz CL36",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "AMD",
+        "Speed (MHz)": 5600,
+        "Performance": 0.72,
+        "Price ($)": 84.48
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 32GB (2x16GB) 5600MHz CL36",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.72,
+        "Price ($)": null
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 64GB (2x32GB) 5600MHz CL40",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.68,
+        "Price ($)": 144.99
+    },
+    {
+        "Model": "Kingston FURY Beast DDR5 128GB (4x32GB) 5600MHz CL40 Black",
+        "Capacity": "128 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.68,
+        "Price ($)": 434.81
+    },
+    {
+        "Model": "Kingston FURY Beast RGB DDR5 128GB (4x32GB) 5600MHz CL40 White",
+        "Capacity": "128 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.68,
+        "Price ($)": 439.58
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 128GB (4x32GB) 5600MHz CL40",
+        "Capacity": "128 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.68,
+        "Price ($)": 499.99
+    },
+    {
+        "Model": "AIR VENGEANCE DDR5 RAM 128GB (4x32GB) 5600MHz CL40 RGB",
+        "Capacity": "128 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.68,
+        "Price ($)": 519.99
+    },
+    {
+        "Model": "Crucial Pro DDR5 64GB (2x32GB) 5600MHz CL46",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.64,
+        "Price ($)": 139.99
+    },
+    {
+        "Model": "Crucial Pro RAM 32GB (2x16GB) DDR5 5600MT/s CL46",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 5600,
+        "Performance": 0.64,
+        "Price ($)": 86.99
+    },
+    {
+        "Model": "CORSAIR Vengeance DDR5 64GB (2x32GB) 5200MHz CL40",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5200,
+        "Performance": 0.62,
+        "Price ($)": 154.99
+    },
+    {
+        "Model": "Kingston FURY Beast RGB DDR5 128GB (4x32GB) 5200MHz CL40",
+        "Capacity": "128 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5200,
+        "Performance": 0.62,
+        "Price ($)": 451.82
+    },
+    {
+        "Model": "Kingston FURY Beast DDR5 16GB (2x8GB) 5200MHz CL40",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5200,
+        "Performance": 0.62,
+        "Price ($)": 53.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE DDR5 16GB (2x8GB) 5200MHz CL40",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5200,
+        "Performance": 0.62,
+        "Price ($)": 64.99
+    },
+    {
+        "Model": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) 5200MHz CL40",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 5200,
+        "Performance": 0.62,
+        "Price ($)": 102.99
+    },
+    {
+        "Model": "Crucial RAM 64GB (2x32GB) DDR5 4800MT/s CL40",
+        "Capacity": "64 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 4800,
+        "Performance": 0.57,
+        "Price ($)": 145.99
+    },
+    {
+        "Model": "Crucial RAM 32GB (2x16GB) DDR5 4800MT/s CL40",
+        "Capacity": "32 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 4800,
+        "Performance": 0.57,
+        "Price ($)": 68.99
+    },
+    {
+        "Model": "Crucial RAM 16GB DDR5 4800MHz CL40",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 4800,
+        "Performance": 0.57,
+        "Price ($)": 33.11
+    },
+    {
+        "Model": "Crucial DDR5 16GB (2x8GB) 4800MHz CL40",
+        "Capacity": "16 GB",
+        "Type": "DDR5",
+        "Profile": "Intel",
+        "Speed (MHz)": 4800,
+        "Performance": 0.57,
+        "Price ($)": 45.99
+    },
+    {
+        "Model": "G.SKILL Ripjaws V DDR4 32GB (2x16GB) 3600MT/s CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.45,
+        "Price ($)": 67.99
+    },
+    {
+        "Model": "G.SKILL Trident Z Neo DDR4 32GB (2x16GB) 3600MT/s CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.45,
+        "Price ($)": 82.99
+    },
+    {
+        "Model": "G.SKILL Trident Z DDR4 RAM 64GB (2x32GB) 3600MT/s CL18 RGB",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 124.99
+    },
+    {
+        "Model": "Corsair Vengeance PRO DDR4 32GB (2x16GB) 3600MHz CL18 White",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 69.99
+    },
+    {
+        "Model": "G.SKILL Ripjaws V 128GB (4x32GB) DDR4 3600MT/s CL18",
+        "Capacity": "128 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 224.99
+    },
+    {
+        "Model": "G.SKILL Trident Z RGB 128GB (4x32GB) DDR4 3600MT/s CL18",
+        "Capacity": "128 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 239.99
+    },
+    {
+        "Model": "Corsair Vengeance RGB Pro 64GB (2x32GB) DDR4 3600MHz CL18",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 139.81
+    },
+    {
+        "Model": "G.SKILL Ripjaws V 64GB (2x32GB) DDR4 3600MT/s CL18",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 125.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 3600MHz CL18",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 120.99
+    },
+    {
+        "Model": "Corsair Vengeance RGB Pro SL 32GB (2x16GB) DDR4 3600MHz CL18",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 83.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3600MHz CL18",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 68.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3600MHz CL18",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 41.99
+    },
+    {
+        "Model": "Corsair Vengeance PRO DDR4 16GB (2x8GB) 3600MHz CL18 White",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 54.99
+    },
+    {
+        "Model": "G.SKILL Trident Z Neo 128GB (4x32GB) DDR4 3600MT/s CL18 White",
+        "Capacity": "128 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 269.99
+    },
+    {
+        "Model": "G.SKILL Trident Z RGB DDR4 32GB (2x16GB) 3600MT/s CL18",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3600,
+        "Performance": 0.42,
+        "Price ($)": 66.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 51.99
+    },
+    {
+        "Model": "TEAMGROUP Delta RGB 16GB (2x8GB) DDR4 3200MHz CL16 White",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 39.99
+    },
+    {
+        "Model": "G.SKILL Ripjaws V DDR4 32GB (2x16GB) 3200MT/s CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 51.99
+    },
+    {
+        "Model": "G.SKILL Ripjaws V DDR4 16GB (2x8GB) 3200MT/s CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 29.99
+    },
+    {
+        "Model": "TEAMGROUP Vulcan Z 32GB (2x16GB) DDR4 3200MHz CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 62.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 37.99
+    },
+    {
+        "Model": "TEAMGROUP Vulcan Z 32GB (2x16GB) DDR4 3200MHz CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 50.99
+    },
+    {
+        "Model": "G.SKILL Trident Z RGB DDR4 32GB (2x16GB) 3200MT/s CL16",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 64.99
+    },
+    {
+        "Model": "Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3200MHz CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 55.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 39.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 37.99
+    },
+    {
+        "Model": "G.SKILL Trident Z RGB DDR4 16GB (2x8GB) 3200MT/s CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 44.99
+    },
+    {
+        "Model": "TEAMGROUP Vulcan Z 16GB (2x8GB) DDR4 3200MHz CL16",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 28.99
+    },
+    {
+        "Model": "Corsair Vengeance Pro 128GB (4x32GB) DDR4 3200 C16 RGB",
+        "Capacity": "128 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 266.99
+    },
+    {
+        "Model": "G.SKILL Trident Z Series DDR4 RAM 16GB (2x8GB) 3200MT/s CL16 RGB",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 44.99
+    },
+    {
+        "Model": "Corsair Vengeance PRO DDR4 32GB (2x16GB) 3200MHz CL16 White",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 77.99
+    },
+    {
+        "Model": "Corsair Vengeance PRO DDR4 16GB (2x8GB) 3200MHz CL16 White",
+        "Capacity": "16 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 55.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 3200MHz CL16",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.39,
+        "Price ($)": 94.99
+    },
+    {
+        "Model": "Corsair Vengeance LPX 128GB (4x32GB) DDR4 3200Mhz CL18",
+        "Capacity": "128 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.37,
+        "Price ($)": 229.99
+    },
+    {
+        "Model": "Crucial Pro 64GB DDR4 3200MT/s CL22",
+        "Capacity": "64 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.33,
+        "Price ($)": 89.99
+    },
+    {
+        "Model": "Crucial Pro 32GB (2x16GB) DDR4 3200MT/s CL22",
+        "Capacity": "32 GB",
+        "Type": "DDR4",
+        "Profile": "AMD Intel",
+        "Speed (MHz)": 3200,
+        "Performance": 0.33,
+        "Price ($)": 50.99
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "Model": "Corsair HX1500i 1500W Modular",
+        "Wattage": "1500 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 349.99
+    },
+    {
+        "Model": "Corsair HX1000i 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 234.99
+    },
+    {
+        "Model": "Corsair SF750 750 Watt Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Toughpower GF3 1200W Modular White",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 209.97
+    },
+    {
+        "Model": "Corsair RM1200x Shift 1200W Modular",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 199.99
+    },
+    {
+        "Model": "MSI MPG A1000G 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 199.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GF A3 1200W Modular",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 179.99
+    },
+    {
+        "Model": "ASUS ROG STRIX 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 274.21
+    },
+    {
+        "Model": "ASUS ROG Strix 850W Modular White",
+        "Wattage": "850 W",
+        "Type": "ATX 2.52",
+        "Modular": "Yes",
+        "Price ($)": 269.99
+    },
+    {
+        "Model": "Corsair RM1000x Shift 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 179.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GF3 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Toughpower GF3 1200W Modular",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 172.99
+    },
+    {
+        "Model": "Corsair RM1000e 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Corsair SF1000L 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Corsair SF850L 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Corsair RM1000x 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Toughpower GF A3 1050W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 169.99
+    },
+    {
+        "Model": "Corsair RM850x Shift 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 179.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GF1 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 139.99
+    },
+    {
+        "Model": "Corsair RM850x 850 W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 204.99
+    },
+    {
+        "Model": "Pure Power 12 M 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 164.89
+    },
+    {
+        "Model": "CORSAIR RM850 850 Watt Modular White",
+        "Wattage": "850 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 124.99
+    },
+    {
+        "Model": "Corsair RM850e 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "EVGA SuperNOVA 850 GT 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.52",
+        "Modular": "Yes",
+        "Price ($)": 131.33
+    },
+    {
+        "Model": "MSI MAG A850GL 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 109.99
+    },
+    {
+        "Model": "MSI MPG A850G 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 143.99
+    },
+    {
+        "Model": "CORSAIR RM750 750 Watt Modular White",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 129.95
+    },
+    {
+        "Model": "Corsair RM750x Shift 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 102.99
+    },
+    {
+        "Model": "Pure Power 12 M 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 119.9
+    },
+    {
+        "Model": "Thermaltake Toughpower GF A3 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 109.99
+    },
+    {
+        "Model": "MSI MPG A750GF 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.52",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "EVGA SuperNOVA 750 GT 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.52",
+        "Modular": "Yes",
+        "Price ($)": 111.89
+    },
+    {
+        "Model": "Corsair RM750e 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "MSI MAG A750GL 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 113.82
+    },
+    {
+        "Model": "EVGA 750-GQ 750W Semi Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "Semi",
+        "Price ($)": 95.38
+    },
+    {
+        "Model": "Cooler Master MWE Gold 850W V2 Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.41",
+        "Modular": "Yes",
+        "Price ($)": 99.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GF3 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Toughpower GF A3 650W Modular",
+        "Wattage": "650 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Toughpower GX3 850W",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "No",
+        "Price ($)": 99.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GF A3 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 130.34
+    },
+    {
+        "Model": "Corsair CX750M 750W Semi-Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "Semi",
+        "Price ($)": null
+    },
+    {
+        "Model": "MSI MPG A650GF 650W Modular",
+        "Wattage": "650 W",
+        "Type": "ATX 2.52",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Corsair CX650M 650W Modular",
+        "Wattage": "650 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 79.99
+    },
+    {
+        "Model": "Thermaltake Toughpower GX2 600W",
+        "Wattage": "600 W",
+        "Type": "ATX 2.4",
+        "Modular": "No",
+        "Price ($)": 69.99
+    },
+    {
+        "Model": "EVGA 750 N1 750W",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "No",
+        "Price ($)": 71.08
+    },
+    {
+        "Model": "EVGA 600W 80 Plus",
+        "Wattage": "600 W",
+        "Type": "ATX 2.4",
+        "Modular": "No",
+        "Price ($)": 70.22
+    },
+    {
+        "Model": "EVGA 650 N1 650W",
+        "Wattage": "650 W",
+        "Type": "ATX 2.4",
+        "Modular": "No",
+        "Price ($)": 66.28
+    },
+    {
+        "Model": "Thermaltake Smart 700W",
+        "Wattage": "700 W",
+        "Type": "ATX 2.31",
+        "Modular": "No",
+        "Price ($)": 54.99
+    },
+    {
+        "Model": "Thermaltake Smart 500W",
+        "Wattage": "500 W",
+        "Type": "ATX 2.31",
+        "Modular": "No",
+        "Price ($)": 39.99
+    },
+    {
+        "Model": "Thermaltake Smart 430W",
+        "Wattage": "430 W",
+        "Type": "ATX 2.31",
+        "Modular": "No",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Smart 600W",
+        "Wattage": "600 W",
+        "Type": "ATX 2.31",
+        "Modular": "No",
+        "Price ($)": 41.99
+    },
+    {
+        "Model": "Cooler Master MWE Gold 850 V3 Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.1",
+        "Modular": "Yes",
+        "Price ($)": 104.99
+    },
+    {
+        "Model": "MSI MAG A650GL 650W Modular",
+        "Wattage": "650 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 107.94
+    },
+    {
+        "Model": "MSI MAG A1000GL 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 162.25
+    },
+    {
+        "Model": "MSI MAG A1250GL 1250W Modular",
+        "Wattage": "1250 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 188.64
+    },
+    {
+        "Model": "Pure Power 12 M 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.1",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Pure Performance Power 12 M 1200W Modular",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.1",
+        "Modular": "Yes",
+        "Price ($)": 185.99
+    },
+    {
+        "Model": "Redragon RGPS 850W Fully Modular White",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 124.99
+    },
+    {
+        "Model": "Redragon RGPS 850W Fully Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "None",
+        "Price ($)": 114.99
+    },
+    {
+        "Model": "ASUS TUF Gaming 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 239.0
+    },
+    {
+        "Model": "ASUS TUF Gaming 1000W Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 165.0
+    },
+    {
+        "Model": "ASUS TUF Gaming 1200W Modular",
+        "Wattage": "1200 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": 185.99
+    },
+    {
+        "Model": "ASUS TUF Gaming 1000W Modular White",
+        "Wattage": "1000 W",
+        "Type": "ATX 3.0",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "Thermaltake Smart BM3 650W Semi Modular",
+        "Wattage": "650 W",
+        "Type": "ATX 3.0",
+        "Modular": "Semi",
+        "Price ($)": 69.99
+    },
+    {
+        "Model": "Thermaltake Smart BM3 750W Semi Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 3.0",
+        "Modular": "Semi",
+        "Price ($)": 79.99
+    },
+    {
+        "Model": "EVGA 650 BP 650W",
+        "Wattage": "650 W",
+        "Type": "ATX 2.4",
+        "Modular": "No",
+        "Price ($)": null
+    },
+    {
+        "Model": "EVGA 850 G6 850W Fully Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": null
+    },
+    {
+        "Model": "EVGA 1000 G6 1000W Fully Modular",
+        "Wattage": "1000 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 219.99
+    },
+    {
+        "Model": "Thermaltake GF1 750W Modular",
+        "Wattage": "750 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 99.99
+    },
+    {
+        "Model": "Thermaltake GF1 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 2.4",
+        "Modular": "Yes",
+        "Price ($)": 109.99
+    },
+    {
+        "Model": "Corsair RM850x 850W Modular",
+        "Wattage": "850 W",
+        "Type": "ATX 3.1",
+        "Modular": "Yes",
+        "Price ($)": 134.99
+    }
+]
