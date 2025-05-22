@@ -1,5 +1,9 @@
 import json
 import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+import itertools
 
 # JSON 데이터 가져오기
 with open("C:/Users/Home PC/Documents/AI_Computer_Parts/Json_dataset/cpu_data.json", 'r', encoding='utf-8') as file:
@@ -36,29 +40,39 @@ psu_df = pd.DataFrame(psu_data)
 cooler_df = pd.DataFrame(cooler_data)
 case_df = pd.DataFrame(case_data)
 
-# cpu와 mainboard 호환성 검증 함수
-def check_cpu_mainboard_compatibility(cpu_df, mainboard_df):
-    compatible_combinations = []  # 호환되는 조합을 저장
-    
-    # CPU와 메인보드의 소켓 
-    for cpu_index, cpu in cpu_df.iterrows():  # 각 CPU 모델 반복
-        for mb_index, mainboard in mainboard_df.iterrows():  # 각 메인보드 모델 반복
-            if cpu['Socket'] == mainboard['Socket'] :
-                compatible_combinations.append({
-                    'cpu_index': cpu_index,
-                    'cpu_model': cpu['Model'],
-                    'mainboard_index': mb_index,
-                    'mainboard_model': mainboard['Model']
-                })
-    
-    return compatible_combinations
+# CPU와 Mainboard의 모든 조합 생성
+combinations = list(itertools.product(cpu_df.iterrows(), mainboard_df.iterrows()))
 
-# 호환성 검사 실행
-compatible_combinations = check_cpu_mainboard_compatibility(cpu_df, mainboard_df)
+# 결과 저장
+results = []
 
-# 호환되는 항목 출력
-if compatible_combinations:
-    for item in compatible_combinations:
-        print(f"Compatible: {item['cpu_model']} (CPU) and {item['mainboard_model']} (Mainboard)")
-else:
-    print("No compatible combinations found.")
+# CPU와 Mainboard 교차 체크
+for (i, cpu), (j, mb) in combinations:
+    compatibility = 1 if cpu['Socket'] == mb['Socket'] else 0
+    results.append({
+        'CPU_Model': cpu['Model'],
+        'Mainboard_Model': mb['Model'],
+        'CPU_Socket': cpu['Socket'],
+        'Mainboard_Socket': mb['Socket'],
+        'Compatible': compatibility,
+        'Wifi': mb['WiFi'],
+        'iGPU': cpu['iGPU']
+    })
+
+# CPU와 Mainboard의 Socket 호환(Compatible) 유무 df
+compatibility_df = pd.DataFrame(results)
+
+# Compatible이 1인 경우만 필터링 (호환되는 조합)
+compatible_only_df = compatibility_df[compatibility_df['Compatible'] == 1]
+
+# Wifi "Yes" → 1, 아니면 0
+compatible_only_df['Wifi'] = compatible_only_df['Wifi'].apply(lambda x: 1 if str(x).strip().lower() == 'yes' else 0)
+
+# iGPU "Yes" → 1, 아니면 0
+compatible_only_df['iGPU'] = compatible_only_df['iGPU'].apply(lambda x: 1 if str(x).strip().lower() == 'yes' else 0)
+
+# index 초기화
+compatible_only_df = compatible_only_df.reset_index(drop=True)
+
+# 결과 출력
+print(compatible_only_df)
