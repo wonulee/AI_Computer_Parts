@@ -1,1210 +1,1059 @@
 [
     {
-        "Model": "GIGABYTE GeForce RTX 4090 Gaming OC 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "GIGABYTE GeForce RTX 4090 Gaming OC 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 3199.95
+        "Price": 3199.95
     },
     {
-        "Model": "MSI Gaming RTX 4090, 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "MSI Gaming RTX 4090, 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": null
+        "Price": 1599.00
     },
     {
-        "Model": "ASUS ROG Strix GeForce RTX 4090 OC 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ASUS ROG Strix GeForce RTX 4090 OC 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 3699.95
+        "Price": 3699.95
     },
     {
-        "Model": "NVIDIA GeForce RTX 4090 Founders Edition 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "NVIDIA GeForce RTX 4090 Founders Edition 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": null
+        "Price": 1599.00
     },
     {
-        "Model": "ASUS TUF RTX 4090 OC Edition 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ASUS TUF RTX 4090 OC Edition 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": null
+        "Price": 1599.00
     },
     {
-        "Model": "GIGABYTE AERO OC RTX 4090 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "GIGABYTE AERO OC RTX 4090 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 3399.0
+        "Price": 3399.0
     },
     {
-        "Model": "MSI Gaming GeForce RTX 4090 24GB Liquid Cooling",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "MSI Gaming GeForce RTX 4090 24 Liquid Cooling",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": null
+        "Price": 1599.00
     },
     {
-        "Model": "ASUS TUF RTX 4090 24GB OG Edition",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ASUS TUF RTX 4090 24 OG Edition",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 3399.0
+        "Price": 1599.00
     },
     {
-        "Model": "ASUS ROG Strix RTX 4090 24GB White",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ASUS ROG Strix RTX 4090 24 White",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": null
+        "Price": 1599.00
     },
     {
-        "Model": "ASUS TUF Gaming RTX 4090 OG OC 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ASUS TUF Gaming RTX 4090 OG OC 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 3189.9
+        "Price": 3189.9
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4090 AMP Extreme AIRO 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "450W",
+        "Model": "ZOTAC Gaming GeForce RTX 4090 AMP Extreme AIRO 24",
+        "VRAM": "24",
+        "TDP": "450W",
         "Performance": 1.0,
-        "Price ($)": 2799.0
+        "Price": 2799.0
     },
     {
-        "Model": "ASUS TUF Gaming GeForce RTX 4080 OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ASUS TUF Gaming GeForce RTX 4080 OC 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4080 Gaming OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "GIGABYTE GeForce RTX 4080 Gaming OC 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "NVIDIA GeForce RTX 4080 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "NVIDIA GeForce RTX 4080 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": 2289.99
+        "Price": 2289.99
     },
     {
-        "Model": "ASUS ROG Strix GeForce RTX 4080 16GB White",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ASUS ROG Strix GeForce RTX 4080 16 White",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4080 16GB Trinity OC",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ZOTAC Gaming GeForce RTX 4080 16 Trinity OC",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "MSI Ventus3 GeForce RTX 4080 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "MSI Ventus3 GeForce RTX 4080 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.89,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "ZOTAC Gaming Geforce 4080 Super Trinity OC White 16 GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ZOTAC Gaming Geforce 4080 Super Trinity OC White 16 ",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "ASUS ROG Strix Geforce RTX 4080 Super 16 GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ASUS ROG Strix Geforce RTX 4080 Super 16 ",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4080 Super AERO OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "GIGABYTE GeForce RTX 4080 Super AERO OC 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "ZOTAC Gaming Geforce 4080 Super Trinity OC 16 GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ZOTAC Gaming Geforce 4080 Super Trinity OC 16 ",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "ASUS ProArt GeForce RTX 4080 Super OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ASUS ProArt GeForce RTX 4080 Super OC Edition 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "PNY GeForce RTX 4080 Super XLR8 Gaming Verto 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "PNY GeForce RTX 4080 Super XLR8 Gaming Verto 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
         "Model": "MSI Gaming RTX 4080 Super 16G Ventus 3X OC",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "GIGABYTE Geforce 4080 Super OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "GIGABYTE Geforce 4080 Super OC 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": null
+        "Price": 1199.00
     },
     {
-        "Model": "PNY Geforce RTX 4080 Super 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "PNY Geforce RTX 4080 Super 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": 1399.0
+        "Price": 1399.0
     },
     {
-        "Model": "ASUS TUF Geforce RTX 4080 Super OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "320W",
+        "Model": "ASUS TUF Geforce RTX 4080 Super OC 16",
+        "VRAM": "16",
+        "TDP": "320W",
         "Performance": 0.88,
-        "Price ($)": 1949.99
+        "Price": 1949.99
     },
     {
-        "Model": "ZOTAC GeForce RTX 4070 Ti Super Trinity 16GB White",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ZOTAC GeForce RTX 4070 Ti Super Trinity 16 White",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Ti Super Windforce 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE GeForce RTX 4070 Ti Super Windforce 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": 1259.99
+        "Price": 1259.99
     },
     {
-        "Model": "MSI GeForce RTX 4070 Ti Super Ventus 3X Black OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "MSI GeForce RTX 4070 Ti Super Ventus 3X Black OC 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": 1299.97
+        "Price": 1299.97
     },
     {
-        "Model": "ZOTAC GeForce RTX 4070 Ti Super Trinity 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ZOTAC GeForce RTX 4070 Ti Super Trinity 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ASUS The SFF-Ready Prime GeForce RTX 4070 Ti Super OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ASUS The SFF-Ready Prime GeForce RTX 4070 Ti Super OC Edition 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": 1199.9
+        "Price": 1199.9
     },
     {
-        "Model": "GIGABYTE Geforce 4070 Ti Super Eagle OC Windforce 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE Geforce 4070 Ti Super Eagle OC Windforce 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": 1249.9
+        "Price": 1249.9
     },
     {
-        "Model": "MSI Gaming RTX 4070 Ti Super 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "MSI Gaming RTX 4070 Ti Super 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
         "Model": "GIGABYTE RTX 4070 Ti Super WINDFORCE OC 16G",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
         "Model": "GIGABYTE GeForce RTX 4070 Ti Super AERO OC 16G",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ASUS TUF Gaming RTX 4070 Ti Super OG OC Edition Gaming 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ASUS TUF Gaming RTX 4070 Ti Super OG OC Edition Gaming 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ASUS TUF Gaming GeForce RTX 4070 Ti Super OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ASUS TUF Gaming GeForce RTX 4070 Ti Super OC 16",
+        "VRAM": "16",
+        "TDP": "285W",
         "Performance": 0.82,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Ti Eagle OC 12GB (rev. 2.0)",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE GeForce RTX 4070 Ti Eagle OC 12 (rev. 2.0)",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": 1539.0
+        "Price": 1539.0
     },
     {
-        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 Ti OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 Ti OC 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4070 Ti Trinity OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ZOTAC Gaming GeForce RTX 4070 Ti Trinity OC 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "MSI X-SLim GeForce RTX 4070 Ti 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "MSI X-SLim GeForce RTX 4070 Ti 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Ti WINDFORCE OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE GeForce RTX 4070 Ti WINDFORCE OC 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Ti AERO OC V2 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE GeForce RTX 4070 Ti AERO OC V2 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "MSI Gaming GeForce RTX 4070 Ti 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "MSI Gaming GeForce RTX 4070 Ti 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4070 Ti Trinity OC White Edition 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "ZOTAC Gaming GeForce RTX 4070 Ti Trinity OC White Edition 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "MSI Ventus2 GeForce RTX 4070 Ti 12GB White",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "MSI Ventus2 GeForce RTX 4070 Ti 12 White",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Ti Gaming OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "GIGABYTE GeForce RTX 4070 Ti Gaming OC 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "PNY GeForce RTX 4070 Ti 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "285W",
+        "Model": "PNY GeForce RTX 4070 Ti 12",
+        "VRAM": "12",
+        "TDP": "285W",
         "Performance": 0.81,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": 1984.65
+        "Price": 1984.65
     },
     {
-        "Model": "PowerColor Hellhound AMD Radeon RX 7900 XTX 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "PowerColor Hellhound AMD Radeon RX 7900 XTX 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": 1142.99
+        "Price": 1142.99
     },
     {
-        "Model": "Sapphire Nitro+ AMD Radeon RX 7900 XTX Vapor-X 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "Sapphire Nitro+ AMD Radeon RX 7900 XTX Vapor-X 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": 1135.81
+        "Price": 1135.81
     },
     {
-        "Model": "PowerColor Red Devil AMD Radeon RX 7900 XTX 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "PowerColor Red Devil AMD Radeon RX 7900 XTX 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": null
+        "Price": 999.00
     },
     {
-        "Model": "XFX Mercury AMD Radeon RX 7900 XTX 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "XFX Mercury AMD Radeon RX 7900 XTX 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": null
+        "Price": 999.00
     },
     {
-        "Model": "XFX Speedster MERC310 AMD Radeon RX 7900XTX Black 24GB",
-        "VRAM": "24GB",
-        "Clock Speed": "None",
-        "Max. Power": "355W",
+        "Model": "XFX Speedster MERC310 AMD Radeon RX 7900XTX Black 24",
+        "VRAM": "24",
+        "TDP": "355W",
         "Performance": 0.8,
-        "Price ($)": 1129.99
+        "Price": 1129.99
     },
     {
-        "Model": "ZOTAC GeForce RTX 4070 Super Twin Edge OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "ZOTAC GeForce RTX 4070 Super Twin Edge OC 12",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "ASUS TUF GeForce RTX 4070 Super OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "ASUS TUF GeForce RTX 4070 Super OC 12",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "ZOTAC GeForce RTX 4070 Super Trinity 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "ZOTAC GeForce RTX 4070 Super Trinity 12",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Super Eagle OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "GIGABYTE GeForce RTX 4070 Super Eagle OC 12",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": 909.89
+        "Price": 909.89
     },
     {
-        "Model": "ASUS Dual GeForce RTX 4070 Super OC 12 GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "ASUS Dual GeForce RTX 4070 Super OC 12 ",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "MSI Gaming RTX 4070 Super 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "MSI Gaming RTX 4070 Super 12",
+        "VRAM": "12",
+        "TDP": "220W",
         "Performance": 0.78,
-        "Price ($)": 869.99
+        "Price": 869.99
     },
     {
-        "Model": "Sapphire Nitro+ AMD Radeon RX 7900 XT Vapor-X 20GB",
-        "VRAM": "20GB",
-        "Clock Speed": "None",
-        "Max. Power": "315W",
+        "Model": "Sapphire Nitro+ AMD Radeon RX 7900 XT Vapor-X 20",
+        "VRAM": "20",
+        "TDP": "315W",
         "Performance": 0.74,
-        "Price ($)": 1513.76
+        "Price": 1513.76
     },
     {
-        "Model": "ASUS TUF Gaming Radeon RX 7900 XT OC Edition 20GB",
-        "VRAM": "20GB",
-        "Clock Speed": "None",
-        "Max. Power": "315W",
+        "Model": "ASUS TUF Gaming Radeon RX 7900 XT OC Edition 20",
+        "VRAM": "20",
+        "TDP": "315W",
         "Performance": 0.74,
-        "Price ($)": 1387.91
+        "Price": 1387.91
     },
     {
-        "Model": "PowerColor Hellhound AMD Radeon RX 7900 XT 20GB",
-        "VRAM": "20GB",
-        "Clock Speed": "None",
-        "Max. Power": "315W",
+        "Model": "PowerColor Hellhound AMD Radeon RX 7900 XT 20",
+        "VRAM": "20",
+        "TDP": "315W",
         "Performance": 0.74,
-        "Price ($)": 1086.15
+        "Price": 1086.15
     },
     {
-        "Model": "XFX Speedster MERC319 RX 6950XT Black 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "335W",
+        "Model": "XFX Speedster MERC319 RX 6950XT Black 16",
+        "VRAM": "16",
+        "TDP": "335W",
         "Performance": 0.73,
-        "Price ($)": 859.99
+        "Price": 859.99
     },
     {
-        "Model": "PowerColor Red Devil AMD Radeon RX 6900 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "PowerColor Red Devil AMD Radeon RX 6900 XT 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.69,
-        "Price ($)": 799.99
+        "Price": 799.99
     },
     {
-        "Model": "MSI Gaming Radeon RX 6900 XT Gaming Z Trio 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "MSI Gaming Radeon RX 6900 XT Gaming Z Trio 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.69,
-        "Price ($)": null
+        "Price": 799.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 AERO OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "GIGABYTE GeForce RTX 4070 AERO OC 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 909.9
+        "Price": 909.9
     },
     {
-        "Model": "MSI Ventus3 GeForce RTX 4070 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "MSI Ventus3 GeForce RTX 4070 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Gaming OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "GIGABYTE GeForce RTX 4070 Gaming OC 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 937.9
+        "Price": 937.9
     },
     {
-        "Model": "ASUS Dual GeForce RTX 4070 OC Edition 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "ASUS Dual GeForce RTX 4070 OC Edition 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": null
+        "Price": 599.00
     },
     {
-        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 OC 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 1345.0
+        "Price": 1345.0
     },
     {
-        "Model": "MSI Gaming GeForce RTX 4070 Ventus 3X E1 OC 12GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "MSI Gaming GeForce RTX 4070 Ventus 3X E1 OC 12",
+        "VRAM": null,
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 699.0
+        "Price": 699.0
     },
     {
-        "Model": "MSI Ventus2 GeForce RTX 4070 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "MSI Ventus2 GeForce RTX 4070 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 949.33
+        "Price": 949.33
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4070 Eagle OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "GIGABYTE GeForce RTX 4070 Eagle OC 12",
+        "VRAM": "12",
+        "TDP": "200W",
         "Performance": 0.69,
-        "Price ($)": 1588.0
+        "Price": 1588.0
     },
     {
-        "Model": "XFX Speedster MERC319 AMD Radeon RX 6800 XT CORE 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "XFX Speedster MERC319 AMD Radeon RX 6800 XT CORE 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.65,
-        "Price ($)": null
+        "Price": 649.00
     },
     {
-        "Model": "PowerColor Red Dragon AMD Radeon RX 6800 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "PowerColor Red Dragon AMD Radeon RX 6800 XT 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.65,
-        "Price ($)": 1225.0
+        "Price": 1225.0
     },
     {
-        "Model": "PowerColor Fighter AMD Radeon RX 7800 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "PowerColor Fighter AMD Radeon RX 7800 XT 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 695.72
+        "Price": 695.72
     },
     {
-        "Model": "XFX Speedster SWFT210 Radeon RX 7800XT G16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "XFX Speedster SWFT210 Radeon RX 7800XT G16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 768.87
+        "Price": 768.87
     },
     {
-        "Model": "GIGABYTE Radeon RX 7800 XT Gaming OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "GIGABYTE Radeon RX 7800 XT Gaming OC 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 688.99
+        "Price": 688.99
     },
     {
-        "Model": "SUS Dual Radeon™ RX 7800 XT OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "SUS Dual Radeon™ RX 7800 XT OC Edition 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "PowerColor Hellhound AMD Radeon RX 7800 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "PowerColor Hellhound AMD Radeon RX 7800 XT 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 733.1
+        "Price": 733.1
     },
     {
-        "Model": "Sapphire Pure AMD Radeon RX 7800 XT 16GB White",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "Sapphire Pure AMD Radeon RX 7800 XT 16 White",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "Sapphire Nitro+ AMD Radeon RX 7800 XT 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 737.5
+        "Price": 737.5
     },
     {
-        "Model": "Sapphire Pulse AMD Radeon RX 7800 XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "Sapphire Pulse AMD Radeon RX 7800 XT 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 790.0
+        "Price": 790.0
     },
     {
-        "Model": "XFX Speedster QICK319 RX 7800 XT CORE 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "263W",
+        "Model": "XFX Speedster QICK319 RX 7800 XT CORE 16",
+        "VRAM": "16",
+        "TDP": "263W",
         "Performance": 0.61,
-        "Price ($)": 699.71
+        "Price": 699.71
     },
     {
-        "Model": "MSI Gaming GeForce RTX 4060 Ti OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "MSI Gaming GeForce RTX 4060 Ti OC 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": 679.99
+        "Price": 679.99
     },
     {
-        "Model": "ASUS Dual GeForce RTX 4060 Ti OC Edition 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ASUS Dual GeForce RTX 4060 Ti OC Edition 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": 639.0
+        "Price": 639.0
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4060 Ti Gaming OC 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "GIGABYTE GeForce RTX 4060 Ti Gaming OC 16",
+        "VRAM": "16",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "GIGABYTE GV-N406TEAGLE-8GD GeForce RTX 4060 Ti Eagle 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "GIGABYTE GV-N406TEAGLE-8GD GeForce RTX 4060 Ti Eagle 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge OC 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "ASUS ProArt GeForce RTX 4060 Ti OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ASUS ProArt GeForce RTX 4060 Ti OC Edition 16",
+        "VRAM": "16",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "Asus Dual GeForce RTX 4060 Ti EVO OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "Asus Dual GeForce RTX 4060 Ti EVO OC Edition 16",
+        "VRAM": "16",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": 864.0
+        "Price": 864.0
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4060 Ti 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ZOTAC Gaming GeForce RTX 4060 Ti 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "PNY GeForce RTX 4060 Ti 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "PNY GeForce RTX 4060 Ti 16",
+        "VRAM": "16",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "MSI Ventus2 GeForce RTX 4060 Ti 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "MSI Ventus2 GeForce RTX 4060 Ti 16",
+        "VRAM": "16",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "ASUS TUF Gaming GeForce RTX 4060 Ti OC Edition 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ASUS TUF Gaming GeForce RTX 4060 Ti OC Edition 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.58,
-        "Price ($)": 699.97
+        "Price": 699.97
     },
     {
-        "Model": "Asus Dual NVIDIA GeForce RTX 3070 V2 OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "Asus Dual NVIDIA GeForce RTX 3070 V2 OC 8",
+        "VRAM": "8",
+        "TDP": "220W",
         "Performance": 0.58,
-        "Price ($)": null
+        "Price": 499.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 3070 Gaming OC 8GB (REV2.0)",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "220W",
+        "Model": "GIGABYTE GeForce RTX 3070 Gaming OC 8 (REV2.0)",
+        "VRAM": "8",
+        "TDP": "220W",
         "Performance": 0.58,
-        "Price ($)": 699.0
+        "Price": 699.0
     },
     {
-        "Model": "MSI Gaming Radeon RX 6800 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "MSI Gaming Radeon RX 6800 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.57,
-        "Price ($)": 1090.0
+        "Price": 1090.0
     },
     {
-        "Model": "XFX Speedster SWFT319 AMD Radeon RX 6800 16GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "XFX Speedster SWFT319 AMD Radeon RX 6800 16",
+        "VRAM": null,
+        "TDP": "300W",
         "Performance": 0.57,
-        "Price ($)": null
+        "Price": 579.00
     },
     {
-        "Model": "XFX Speedster SWFT319 Radeon RX 6800 Core 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "300W",
+        "Model": "XFX Speedster SWFT319 Radeon RX 6800 Core 16",
+        "VRAM": "16",
+        "TDP": "300W",
         "Performance": 0.57,
-        "Price ($)": 629.0
+        "Price": 629.0
     },
     {
         "Model": "ASUS Dual Radeon™ RX 7700 XT 12G",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "245W",
+        "VRAM": "12",
+        "TDP": "245W",
         "Performance": 0.56,
-        "Price ($)": null
+        "Price": 449.00
     },
     {
-        "Model": "XFX Speedster SWFT210 Radeon RX 7700XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "245W",
+        "Model": "XFX Speedster SWFT210 Radeon RX 7700XT 12",
+        "VRAM": "12",
+        "TDP": "245W",
         "Performance": 0.56,
-        "Price ($)": 488.99
+        "Price": 488.99
     },
     {
-        "Model": "GIGABYTE Radeon RX 7700 XT Gaming OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "245W",
+        "Model": "GIGABYTE Radeon RX 7700 XT Gaming OC 12",
+        "VRAM": "12",
+        "TDP": "245W",
         "Performance": 0.56,
-        "Price ($)": 599.0
+        "Price": 599.0
     },
     {
-        "Model": "Sapphire Pulse AMD Radeon RX 7700 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "245W",
+        "Model": "Sapphire Pulse AMD Radeon RX 7700 XT 12",
+        "VRAM": "12",
+        "TDP": "245W",
         "Performance": 0.56,
-        "Price ($)": 589.03
+        "Price": 589.03
     },
     {
-        "Model": "XFX Speedster QICK319 RX 7700 XT Black 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "245W",
+        "Model": "XFX Speedster QICK319 RX 7700 XT Black 12",
+        "VRAM": "12",
+        "TDP": "245W",
         "Performance": 0.56,
-        "Price ($)": 449.99
+        "Price": 449.99
     },
     {
-        "Model": "XFX Speedster QICK319 Radeon RX 6750XT CORE 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "250W",
+        "Model": "XFX Speedster QICK319 Radeon RX 6750XT CORE 12",
+        "VRAM": "12",
+        "TDP": "250W",
         "Performance": 0.54,
-        "Price ($)": null
+        "Price": 549.00
     },
     {
-        "Model": "PowerColor Fighter AMD Radeon RX 6750 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "250W",
+        "Model": "PowerColor Fighter AMD Radeon RX 6750 XT 12",
+        "VRAM": "12",
+        "TDP": "250W",
         "Performance": 0.54,
-        "Price ($)": 570.0
+        "Price": 570.0
     },
     {
-        "Model": "MSI Gaming Radeon RX 6750 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "250W",
+        "Model": "MSI Gaming Radeon RX 6750 XT 12",
+        "VRAM": "12",
+        "TDP": "250W",
         "Performance": 0.54,
-        "Price ($)": null
+        "Price": 549.00
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX™ 3060 Ti 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "ZOTAC Gaming GeForce RTX™ 3060 Ti 8",
+        "VRAM": "8",
+        "TDP": "200W",
         "Performance": 0.53,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "ASUS Dual NVIDIA GeForce RTX 3060 Ti 8GB White",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "ASUS Dual NVIDIA GeForce RTX 3060 Ti 8 White",
+        "VRAM": "8",
+        "TDP": "200W",
         "Performance": 0.53,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 3060 Ti OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "200W",
+        "Model": "ASUS TUF Gaming NVIDIA GeForce RTX 3060 Ti OC 8",
+        "VRAM": "8",
+        "TDP": "200W",
         "Performance": 0.53,
-        "Price ($)": null
+        "Price": 399.00
     },
     {
-        "Model": "PowerColor Fighter AMD Radeon RX 6700 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "PowerColor Fighter AMD Radeon RX 6700 XT 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "XFX Speedster SWFT309 AMD Radeon RX 6700 XT CORE 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "XFX Speedster SWFT309 AMD Radeon RX 6700 XT CORE 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "Sapphire Pulse AMD Radeon RX 6700 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "Sapphire Pulse AMD Radeon RX 6700 XT 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "PowerColor Fighter AMD Radeon RX 6700 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "PowerColor Fighter AMD Radeon RX 6700 XT 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "XFX Speedster SWFT309 AMD Radeon RX 6700 XT CORE 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "XFX Speedster SWFT309 AMD Radeon RX 6700 XT CORE 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "Sapphire Pulse AMD Radeon RX 6700 XT 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "230W",
+        "Model": "Sapphire Pulse AMD Radeon RX 6700 XT 12",
+        "VRAM": "12",
+        "TDP": "230W",
         "Performance": 0.51,
-        "Price ($)": null
+        "Price": 479.00
     },
     {
-        "Model": "ASUS Dual GeForce RTX 4060 OC Edition 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "ASUS Dual GeForce RTX 4060 OC Edition 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 439.99
+        "Price": 439.99
     },
     {
-        "Model": "ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "ASUS Dual GeForce RTX 4060 EVO OC Edition 8",
+        "VRAM": null,
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 351.99
+        "Price": 351.99
     },
     {
-        "Model": "MSI Ventus2 GeForce RTX 4060 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "MSI Ventus2 GeForce RTX 4060 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 377.49
+        "Price": 377.49
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4060 Eagle OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "GIGABYTE GeForce RTX 4060 Eagle OC 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 469.97
+        "Price": 469.97
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4060 Gaming OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "GIGABYTE GeForce RTX 4060 Gaming OC 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 429.0
+        "Price": 429.0
     },
     {
         "Model": "GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "VRAM": null,
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 443.9
+        "Price": 443.9
     },
     {
-        "Model": "PNY GeForce RTX 4060 XLR8 Gaming Verto 8GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "PNY GeForce RTX 4060 XLR8 Gaming Verto 8",
+        "VRAM": null,
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 389.0
+        "Price": 389.0
     },
     {
         "Model": "GIGABYTE GeForce RTX 4060 Gaming OC 8G",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "VRAM": null,
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 429.0
+        "Price": 429.0
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 4060 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "ZOTAC Gaming GeForce RTX 4060 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 429.99
+        "Price": 429.99
     },
     {
-        "Model": "GIGABYTE GeForce RTX 4060 OC Low Profile 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "116W",
+        "Model": "GIGABYTE GeForce RTX 4060 OC Low Profile 8",
+        "VRAM": "8",
+        "TDP": "116W",
         "Performance": 0.5,
-        "Price ($)": 479.99
+        "Price": 479.99
     },
     {
-        "Model": "XFX Speedster QICK309 Radeon RX 7600XT 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "190W",
+        "Model": "XFX Speedster QICK309 Radeon RX 7600XT 16",
+        "VRAM": "16",
+        "TDP": "190W",
         "Performance": 0.45,
-        "Price ($)": null
+        "Price": 329.00
     },
     {
-        "Model": "ASUS Dual Radeon RX 7600 XT OC Edition 16GB",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "190W",
+        "Model": "ASUS Dual Radeon RX 7600 XT OC Edition 16",
+        "VRAM": "16",
+        "TDP": "190W",
         "Performance": 0.45,
-        "Price ($)": null
+        "Price": 329.00
     },
     {
         "Model": "GIGABYTE Radeon RX 7600 XT Gaming OC 16G",
-        "VRAM": "16GB",
-        "Clock Speed": "None",
-        "Max. Power": "190W",
+        "VRAM": "16",
+        "TDP": "190W",
         "Performance": 0.45,
-        "Price ($)": 359.99
+        "Price": 359.99
     },
     {
-        "Model": "MSI Gaming GeForce RTX 3060 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "170W",
+        "Model": "MSI Gaming GeForce RTX 3060 12",
+        "VRAM": "12",
+        "TDP": "170W",
         "Performance": 0.44,
-        "Price ($)": 372.9
+        "Price": 372.9
     },
     {
-        "Model": "GIGABYTE GeForce RTX 3060 Gaming OC 12GB (REV2.0)",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "170W",
+        "Model": "GIGABYTE GeForce RTX 3060 Gaming OC 12 (REV2.0)",
+        "VRAM": "12",
+        "TDP": "170W",
         "Performance": 0.44,
-        "Price ($)": 449.99
+        "Price": 449.99
     },
     {
-        "Model": "ASUS Dual NVIDIA GeForce RTX 3060 V2 OC Edition 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "170W",
+        "Model": "ASUS Dual NVIDIA GeForce RTX 3060 V2 OC Edition 12",
+        "VRAM": "12",
+        "TDP": "170W",
         "Performance": 0.44,
-        "Price ($)": 329.99
+        "Price": 329.99
     },
     {
-        "Model": "ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB",
-        "VRAM": "12GB",
-        "Clock Speed": "None",
-        "Max. Power": "170W",
+        "Model": "ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12",
+        "VRAM": "12",
+        "TDP": "170W",
         "Performance": 0.44,
-        "Price ($)": 449.9
+        "Price": 449.9
     },
     {
-        "Model": "FX Speedster SWFT210 Radeon RX 7600 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "165W",
+        "Model": "FX Speedster SWFT210 Radeon RX 7600 8",
+        "VRAM": "8",
+        "TDP": "165W",
         "Performance": 0.41,
-        "Price ($)": 389.0
+        "Price": 389.0
     },
     {
-        "Model": "GIGABYTE Radeon RX 7600 OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "165W",
+        "Model": "GIGABYTE Radeon RX 7600 OC 8",
+        "VRAM": "8",
+        "TDP": "165W",
         "Performance": 0.41,
-        "Price ($)": 396.99
+        "Price": 396.99
     },
     {
-        "Model": "XFX Speedster QICK308 Radeon RX 7600 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "165W",
+        "Model": "XFX Speedster QICK308 Radeon RX 7600 8",
+        "VRAM": "8",
+        "TDP": "165W",
         "Performance": 0.41,
-        "Price ($)": 414.28
+        "Price": 414.28
     },
     {
-        "Model": "ASUS Dual AMD Radeon RX 6600 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "ASUS Dual AMD Radeon RX 6600 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.39,
-        "Price ($)": 355.0
+        "Price": 355.0
     },
     {
-        "Model": "PowerColor Fighter AMD Radeon RX 6600 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "PowerColor Fighter AMD Radeon RX 6600 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.39,
-        "Price ($)": 299.0
+        "Price": 299.0
     },
     {
-        "Model": "XFX Speedster SWFT 210 Radeon RX 6600 CORE 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "160W",
+        "Model": "XFX Speedster SWFT 210 Radeon RX 6600 CORE 8",
+        "VRAM": "8",
+        "TDP": "160W",
         "Performance": 0.39,
-        "Price ($)": 269.99
+        "Price": 269.99
     },
     {
-        "Model": "MSI Gaming GeForce RTX 3050 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "115W",
+        "Model": "MSI Gaming GeForce RTX 3050 8",
+        "VRAM": "8",
+        "TDP": "115W",
         "Performance": 0.33,
-        "Price ($)": 240.36
+        "Price": 240.36
     },
     {
-        "Model": "ASUS Dual NVIDIA GeForce RTX 3050 OC 6GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "115W",
+        "Model": "ASUS Dual NVIDIA GeForce RTX 3050 OC 6",
+        "VRAM": null,
+        "TDP": "115W",
         "Performance": 0.33,
-        "Price ($)": 199.99
+        "Price": 199.99
     },
     {
-        "Model": "ASUS Dual NVIDIA GeForce RTX 3050 OC 8GB",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "115W",
+        "Model": "ASUS Dual NVIDIA GeForce RTX 3050 OC 8",
+        "VRAM": "8",
+        "TDP": "115W",
         "Performance": 0.33,
-        "Price ($)": null
+        "Price": 249.00
     },
     {
-        "Model": "GIGABYTE GeForce RTX 3050 WINDFORCE OC 6GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "115W",
+        "Model": "GIGABYTE GeForce RTX 3050 WINDFORCE OC 6",
+        "VRAM": null,
+        "TDP": "115W",
         "Performance": 0.33,
-        "Price ($)": 266.8
+        "Price": 266.8
     },
     {
-        "Model": "EVGA 06G-P4-1068-KR GeForce GTX 1660 Super 6GB",
-        "VRAM": "6GB",
-        "Clock Speed": "None",
-        "Max. Power": "125W",
+        "Model": "EVGA 06G-P4-1068-KR GeForce GTX 1660 Super 6",
+        "VRAM": "6",
+        "TDP": "125W",
         "Performance": 0.33,
-        "Price ($)": 238.7
+        "Price": 238.7
     },
     {
-        "Model": "GeForce GTX 1660 Super 6GB",
-        "VRAM": "None",
-        "Clock Speed": "None",
-        "Max. Power": "125W",
+        "Model": "GeForce GTX 1660 Super 6",
+        "VRAM": null,
+        "TDP": "125W",
         "Performance": 0.33,
-        "Price ($)": 179.99
+        "Price": 229.00
     },
     {
-        "Model": "ZOTAC GeForce GTX 1660 Super 6GB",
-        "VRAM": "6GB",
-        "Clock Speed": "None",
-        "Max. Power": "125W",
+        "Model": "ZOTAC GeForce GTX 1660 Super 6",
+        "VRAM": "6",
+        "TDP": "125W",
         "Performance": 0.33,
-        "Price ($)": 241.63
+        "Price": 241.63
     },
     {
         "Model": "XFX Radeon RX 580 GTS",
-        "VRAM": "8GB",
-        "Clock Speed": "None",
-        "Max. Power": "100W",
+        "VRAM": "8",
+        "TDP": "100W",
         "Performance": 0.17,
-        "Price ($)": 219.58
+        "Price": 219.58
     }
 ]

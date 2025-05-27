@@ -1,0 +1,970 @@
+[
+    {
+        "Name": "AMD Ryzen 5 5500",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 19478,
+        "Value": 235,
+        "Price": 82.99
+    },
+    {
+        "Name": "AMD Ryzen 5 4500",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 16152,
+        "Value": 222,
+        "Price": 72.85
+    },
+    {
+        "Name": "Intel Core Ultra 7 265K",
+        "Socket": "1851",
+        "TDP": 125,
+        "CPU Mark": 58878,
+        "Value": 219,
+        "Price": 269
+    },
+    {
+        "Name": "Intel Core i5-14600KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 39339,
+        "Value": 212,
+        "Price": 186
+    },
+    {
+        "Name": "Intel Core i5-13600KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 38000,
+        "Value": 200,
+        "Price": 189.99
+    },
+    {
+        "Name": "Intel Core i5-14600KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 39489,
+        "Value": 199,
+        "Price": 198
+    },
+    {
+        "Name": "Intel Core i5-14400F",
+        "Socket": "1700",
+        "TDP": 148,
+        "CPU Mark": 25798,
+        "Value": 198,
+        "Price": 130
+    },
+    {
+        "Name": "Intel Core i7-12700KF",
+        "Socket": "1700",
+        "TDP": 190,
+        "CPU Mark": 34472,
+        "Value": 192,
+        "Price": 179.99
+    },
+    {
+        "Name": "AMD Ryzen 7 5700X",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 26738,
+        "Value": 192,
+        "Price": 139.38
+    },
+    {
+        "Name": "AMD Ryzen 7 5700",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 24236,
+        "Value": 191,
+        "Price": 126.8
+    },
+    {
+        "Name": "Intel Core i5-14600K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 39154,
+        "Value": 188,
+        "Price": 207.99
+    },
+    {
+        "Name": "Intel Core i5-13400F",
+        "Socket": "1700",
+        "TDP": 148,
+        "CPU Mark": 25214,
+        "Value": 188,
+        "Price": 134.45
+    },
+    {
+        "Name": "Intel Core i5-12600KF",
+        "Socket": "1700",
+        "TDP": 150,
+        "CPU Mark": 27438,
+        "Value": 187,
+        "Price": 146.4
+    },
+    {
+        "Name": "AMD Ryzen 5 5600",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 21583,
+        "Value": 185,
+        "Price": 116.98
+    },
+    {
+        "Name": "Intel Core i3-12100F",
+        "Socket": "1700",
+        "TDP": 58,
+        "CPU Mark": 14118,
+        "Value": 184,
+        "Price": 76.78
+    },
+    {
+        "Name": "Intel Core i7-12700KF",
+        "Socket": "1700",
+        "TDP": 190,
+        "CPU Mark": 34382,
+        "Value": 181,
+        "Price": 189.99
+    },
+    {
+        "Name": "Intel Core i5-12400F",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 19551,
+        "Value": 179,
+        "Price": 108.99
+    },
+    {
+        "Name": "Intel Core i7-14700K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 53690,
+        "Value": 177,
+        "Price": 303.61
+    },
+    {
+        "Name": "AMD Ryzen 5 4600G",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 16019,
+        "Value": 176,
+        "Price": 91.2
+    },
+    {
+        "Name": "Intel Core i3-12100F",
+        "Socket": "1700",
+        "TDP": 58,
+        "CPU Mark": 14168,
+        "Value": 172,
+        "Price": 82.49
+    },
+    {
+        "Name": "AMD Ryzen 3 3100",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 11622,
+        "Value": 172,
+        "Price": 67.48
+    },
+    {
+        "Name": "Intel Core i3-14100F",
+        "Socket": "1700",
+        "TDP": 110,
+        "CPU Mark": 15397,
+        "Value": 171,
+        "Price": 90.1
+    },
+    {
+        "Name": "AMD Ryzen 7 5800X",
+        "Socket": "AM4",
+        "TDP": 105,
+        "CPU Mark": 27932,
+        "Value": 169,
+        "Price": 165
+    },
+    {
+        "Name": "AMD Ryzen 9 5900X",
+        "Socket": "AM4",
+        "TDP": 105,
+        "CPU Mark": 39201,
+        "Value": 168,
+        "Price": 233.46
+    },
+    {
+        "Name": "Intel Core i7-14700KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 53362,
+        "Value": 167,
+        "Price": 319.99
+    },
+    {
+        "Name": "Intel Core i7-13700KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 46166,
+        "Value": 166,
+        "Price": 278.12
+    },
+    {
+        "Name": "AMD Ryzen 5 5600X",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 21916,
+        "Value": 163,
+        "Price": 134.85
+    },
+    {
+        "Name": "Intel Core i7-14700K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 53359,
+        "Value": 162,
+        "Price": 329.95
+    },
+    {
+        "Name": "Intel Core i7-14700KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 53238,
+        "Value": 161,
+        "Price": 329.99
+    },
+    {
+        "Name": "AMD Ryzen 3 4100",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 11079,
+        "Value": 161,
+        "Price": 68.97
+    },
+    {
+        "Name": "Intel Core i7-12700K",
+        "Socket": "1700",
+        "TDP": 190,
+        "CPU Mark": 34627,
+        "Value": 157,
+        "Price": 219.99
+    },
+    {
+        "Name": "AMD Ryzen 9 7900X",
+        "Socket": "AM5",
+        "TDP": 170,
+        "CPU Mark": 51990,
+        "Value": 155,
+        "Price": 335.26
+    },
+    {
+        "Name": "Intel Core i7-13700KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 46431,
+        "Value": 155,
+        "Price": 299
+    },
+    {
+        "Name": "Intel Core i5-11400F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 17041,
+        "Value": 155,
+        "Price": 109.99
+    },
+    {
+        "Name": "Intel Core i9-12900KF",
+        "Socket": "1700",
+        "TDP": 241,
+        "CPU Mark": 41182,
+        "Value": 153,
+        "Price": 269.92
+    },
+    {
+        "Name": "Intel Core i5-13600K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 37969,
+        "Value": 153,
+        "Price": 248.54
+    },
+    {
+        "Name": "Intel Core i5-12600K",
+        "Socket": "1700",
+        "TDP": 150,
+        "CPU Mark": 27756,
+        "Value": 153,
+        "Price": 180.97
+    },
+    {
+        "Name": "AMD Ryzen 5 8500G",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 21670,
+        "Value": 152,
+        "Price": 143
+    },
+    {
+        "Name": "AMD Ryzen 9 7950X",
+        "Socket": "AM5",
+        "TDP": 170,
+        "CPU Mark": 63019,
+        "Value": 150,
+        "Price": 419
+    },
+    {
+        "Name": "Intel Core i5-11500",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 17381,
+        "Value": 150,
+        "Price": 115.99
+    },
+    {
+        "Name": "Intel Core i9-13900KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 58705,
+        "Value": 149,
+        "Price": 394.99
+    },
+    {
+        "Name": "Intel Core i5-14400",
+        "Socket": "1700",
+        "TDP": 148,
+        "CPU Mark": 26377,
+        "Value": 149,
+        "Price": 177.52
+    },
+    {
+        "Name": "AMD Ryzen 7 5700G",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 24632,
+        "Value": 149,
+        "Price": 164.99
+    },
+    {
+        "Name": "Intel Core i7-13700K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 46612,
+        "Value": 148,
+        "Price": 315.47
+    },
+    {
+        "Name": "Intel Core i7-14700",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 45826,
+        "Value": 148,
+        "Price": 309
+    },
+    {
+        "Name": "Intel Core i7-13700KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 46166,
+        "Value": 146,
+        "Price": 316.64
+    },
+    {
+        "Name": "Intel Core i5-13600K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 38088,
+        "Value": 146,
+        "Price": 259.99
+    },
+    {
+        "Name": "AMD Ryzen 9 7900",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 48896,
+        "Value": 145,
+        "Price": 336.82
+    },
+    {
+        "Name": "Intel Core i9-13900K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 59414,
+        "Value": 144,
+        "Price": 412.27
+    },
+    {
+        "Name": "AMD Ryzen 5 7600X",
+        "Socket": "AM5",
+        "TDP": 105,
+        "CPU Mark": 28619,
+        "Value": 143,
+        "Price": 200
+    },
+    {
+        "Name": "AMD Ryzen 5 5600G",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 19902,
+        "Value": 142,
+        "Price": 139.99
+    },
+    {
+        "Name": "Intel Core i7-14700F",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 44814,
+        "Value": 141,
+        "Price": 317.22
+    },
+    {
+        "Name": "AMD Ryzen 5 5600GT",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 20254,
+        "Value": 141,
+        "Price": 144
+    },
+    {
+        "Name": "Intel Core i7-13700F",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 39037,
+        "Value": 140,
+        "Price": 277.98
+    },
+    {
+        "Name": "AMD Ryzen 5 8600G",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 25314,
+        "Value": 140,
+        "Price": 181.15
+    },
+    {
+        "Name": "AMD Ryzen 5 7600",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 27314,
+        "Value": 139,
+        "Price": 196.99
+    },
+    {
+        "Name": "Intel Core i9-14900KF",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 60085,
+        "Value": 137,
+        "Price": 439.99
+    },
+    {
+        "Name": "AMD Ryzen 9 9900X",
+        "Socket": "AM5",
+        "TDP": 120,
+        "CPU Mark": 54754,
+        "Value": 137,
+        "Price": 398.99
+    },
+    {
+        "Name": "Intel Core i9-12900K",
+        "Socket": "1700",
+        "TDP": 241,
+        "CPU Mark": 41356,
+        "Value": 136,
+        "Price": 303.3
+    },
+    {
+        "Name": "Intel Core i5-14500",
+        "Socket": "1700",
+        "TDP": 154,
+        "CPU Mark": 32672,
+        "Value": 136,
+        "Price": 239.99
+    },
+    {
+        "Name": "Intel Core i5-13400",
+        "Socket": "1700",
+        "TDP": 154,
+        "CPU Mark": 23129,
+        "Value": 136,
+        "Price": 169.99
+    },
+    {
+        "Name": "Intel Core i9-14900K",
+        "Socket": "1700",
+        "TDP": 125,
+        "CPU Mark": 60429,
+        "Value": 135,
+        "Price": 448.98
+    },
+    {
+        "Name": "Intel Core i5-12400",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 19436,
+        "Value": 135,
+        "Price": 143.55
+    },
+    {
+        "Name": "Intel Core i3-14100",
+        "Socket": "1700",
+        "TDP": 60,
+        "CPU Mark": 15056,
+        "Value": 133,
+        "Price": 112.92
+    },
+    {
+        "Name": "Intel Core i5-13500",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 32122,
+        "Value": 132,
+        "Price": 243.47
+    },
+    {
+        "Name": "Intel Core i5-11400F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 17127,
+        "Value": 132,
+        "Price": 129.98
+    },
+    {
+        "Name": "AMD Ryzen 7 7700X",
+        "Socket": "AM5",
+        "TDP": 105,
+        "CPU Mark": 36070,
+        "Value": 131,
+        "Price": 274.65
+    },
+    {
+        "Name": "AMD Ryzen 7 7700",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 34630,
+        "Value": 131,
+        "Price": 264.08
+    },
+    {
+        "Name": "AMD Ryzen 9 5950X",
+        "Socket": "AM4",
+        "TDP": 105,
+        "CPU Mark": 45700,
+        "Value": 130,
+        "Price": 351
+    },
+    {
+        "Name": "Intel Core i5-10600KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 14289,
+        "Value": 130,
+        "Price": 110
+    },
+    {
+        "Name": "Intel Core i7-12700",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 30802,
+        "Value": 122,
+        "Price": 252.89
+    },
+    {
+        "Name": "Intel Core i5-13400",
+        "Socket": "1700",
+        "TDP": 154,
+        "CPU Mark": 23129,
+        "Value": 119,
+        "Price": 195
+    },
+    {
+        "Name": "Intel Core i3-12100",
+        "Socket": "1700",
+        "TDP": 60,
+        "CPU Mark": 13554,
+        "Value": 119,
+        "Price": 113.6
+    },
+    {
+        "Name": "AMD Ryzen 7 9700X",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 37592,
+        "Value": 118,
+        "Price": 319
+    },
+    {
+        "Name": "Intel Core i7-13700",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 37057,
+        "Value": 116,
+        "Price": 319.99
+    },
+    {
+        "Name": "Intel Core i3-13100",
+        "Socket": "1700",
+        "TDP": 60,
+        "CPU Mark": 14660,
+        "Value": 115,
+        "Price": 127.07
+    },
+    {
+        "Name": "Intel Core i9-13900F",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 51049,
+        "Value": 114,
+        "Price": 449.08
+    },
+    {
+        "Name": "AMD Ryzen 9 9950X",
+        "Socket": "AM5",
+        "TDP": 170,
+        "CPU Mark": 67095,
+        "Value": 112,
+        "Price": 599
+    },
+    {
+        "Name": "Intel Core i9-12900KS",
+        "Socket": "1700",
+        "TDP": 150,
+        "CPU Mark": 44171,
+        "Value": 110,
+        "Price": 399.99
+    },
+    {
+        "Name": "AMD Ryzen 7 8700G",
+        "Socket": "AM5",
+        "TDP": 65,
+        "CPU Mark": 31668,
+        "Value": 107,
+        "Price": 295.99
+    },
+    {
+        "Name": "AMD Ryzen 7 5700X3D",
+        "Socket": "AM4",
+        "TDP": 105,
+        "CPU Mark": 26835,
+        "Value": 105,
+        "Price": 255.89
+    },
+    {
+        "Name": "Intel Core i3-12100",
+        "Socket": "1700",
+        "TDP": 60,
+        "CPU Mark": 13590,
+        "Value": 105,
+        "Price": 129.99
+    },
+    {
+        "Name": "Intel Core i5-10600K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 14344,
+        "Value": 103,
+        "Price": 138.99
+    },
+    {
+        "Name": "AMD Ryzen 9 9950X3D",
+        "Socket": "AM5",
+        "TDP": 170,
+        "CPU Mark": 70400,
+        "Value": 101,
+        "Price": 699
+    },
+    {
+        "Name": "Intel Core i5-11600KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 19676,
+        "Value": 101,
+        "Price": 195
+    },
+    {
+        "Name": "Intel Core i5-10400F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 12195,
+        "Value": 101,
+        "Price": 121.11
+    },
+    {
+        "Name": "Intel Core i7-12700",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 30790,
+        "Value": 99,
+        "Price": 309.99
+    },
+    {
+        "Name": "Intel Core i9-11900F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 22295,
+        "Value": 99,
+        "Price": 225
+    },
+    {
+        "Name": "Intel Core i9-14900KS",
+        "Socket": "1700",
+        "TDP": 150,
+        "CPU Mark": 63641,
+        "Value": 98,
+        "Price": 649.98
+    },
+    {
+        "Name": "Intel Core i9-14900F",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 51030,
+        "Value": 98,
+        "Price": 521
+    },
+    {
+        "Name": "Intel Core i3-10100",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 8678,
+        "Value": 96,
+        "Price": 89.99
+    },
+    {
+        "Name": "AMD Ryzen 7 5800X3D",
+        "Socket": "AM4",
+        "TDP": 105,
+        "CPU Mark": 28279,
+        "Value": 94,
+        "Price": 300
+    },
+    {
+        "Name": "Intel Core i5-10400",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 12134,
+        "Value": 94,
+        "Price": 129
+    },
+    {
+        "Name": "Intel Core i9-10900F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 20005,
+        "Value": 92,
+        "Price": 217.99
+    },
+    {
+        "Name": "Intel Core i9-10900KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 22584,
+        "Value": 91,
+        "Price": 249
+    },
+    {
+        "Name": "AMD Ryzen 7 7800X3D",
+        "Socket": "AM5",
+        "TDP": 120,
+        "CPU Mark": 34409,
+        "Value": 90,
+        "Price": 381.99
+    },
+    {
+        "Name": "Intel Core i5-11400",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 17089,
+        "Value": 88,
+        "Price": 195
+    },
+    {
+        "Name": "Intel Core i9-10850K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 22485,
+        "Value": 86,
+        "Price": 260
+    },
+    {
+        "Name": "Intel Core i7-11700F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 21056,
+        "Value": 86,
+        "Price": 244.99
+    },
+    {
+        "Name": "Intel Core i9-14900",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 49171,
+        "Value": 85,
+        "Price": 578.99
+    },
+    {
+        "Name": "Intel Core i7-11700K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 24680,
+        "Value": 85,
+        "Price": 289.99
+    },
+    {
+        "Name": "Intel Core i7-10700KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 18665,
+        "Value": 85,
+        "Price": 220
+    },
+    {
+        "Name": "AMD Ryzen 3 3300X",
+        "Socket": "AM4",
+        "TDP": 65,
+        "CPU Mark": 12660,
+        "Value": 84,
+        "Price": 150
+    },
+    {
+        "Name": "Intel Core i9-12900",
+        "Socket": "1700",
+        "TDP": 65,
+        "CPU Mark": 34295,
+        "Value": 83,
+        "Price": 411.99
+    },
+    {
+        "Name": "Intel Core i7-11700KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 23999,
+        "Value": 83,
+        "Price": 289.99
+    },
+    {
+        "Name": "Intel Core i9-12900K",
+        "Socket": "1700",
+        "TDP": 241,
+        "CPU Mark": 41490,
+        "Value": 82,
+        "Price": 507.15
+    },
+    {
+        "Name": "Intel Core i9-11900",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 22942,
+        "Value": 82,
+        "Price": 279.99
+    },
+    {
+        "Name": "Intel Core i5-11600K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 19651,
+        "Value": 82,
+        "Price": 239
+    },
+    {
+        "Name": "Intel Core i7-10700F",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 16478,
+        "Value": 80,
+        "Price": 207
+    },
+    {
+        "Name": "Intel Core i7-12700K",
+        "Socket": "1700",
+        "TDP": 190,
+        "CPU Mark": 34613,
+        "Value": 79,
+        "Price": 440.84
+    },
+    {
+        "Name": "Intel Core i7-10700K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 18877,
+        "Value": 77,
+        "Price": 244.25
+    },
+    {
+        "Name": "Intel Core i7-10700",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 16447,
+        "Value": 74,
+        "Price": 222.08
+    },
+    {
+        "Name": "Intel Core i9-11900KF",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 25275,
+        "Value": 73,
+        "Price": 345
+    },
+    {
+        "Name": "Intel Core i7-11700",
+        "Socket": "1200",
+        "TDP": 95,
+        "CPU Mark": 19898,
+        "Value": 68,
+        "Price": 294.57
+    },
+    {
+        "Name": "Intel Core i3-10320",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 10010,
+        "Value": 65,
+        "Price": 154.99
+    },
+    {
+        "Name": "Intel Core i9-11900K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 25350,
+        "Value": 64,
+        "Price": 395
+    },
+    {
+        "Name": "AMD Ryzen 7 9800X3D",
+        "Socket": "AM5",
+        "TDP": 120,
+        "CPU Mark": 40048,
+        "Value": 58,
+        "Price": 692.31
+    },
+    {
+        "Name": "Intel Core i5-10500",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 12738,
+        "Value": 57,
+        "Price": 222.85
+    },
+    {
+        "Name": "Intel Core i9-10900K",
+        "Socket": "1200",
+        "TDP": 125,
+        "CPU Mark": 23000,
+        "Value": 47,
+        "Price": 490
+    },
+    {
+        "Name": "Intel Core i9-10900",
+        "Socket": "1200",
+        "TDP": 65,
+        "CPU Mark": 19849,
+        "Value": 46,
+        "Price": 432.77
+    },
+    {
+        "Name": "Intel Core i9-10900X",
+        "Socket": "LGA 2066",
+        "TDP": 165,
+        "CPU Mark": 22505,
+        "Value": 37,
+        "Price": 605
+    }
+]

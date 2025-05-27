@@ -1,530 +1,530 @@
 [
     {
         "Model": "SAMSUNG 990 PRO 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 7450,
         "Performance": 1.0,
-        "Price ($)": 302.58
+        "Price": 302.58
     },
     {
         "Model": "Samsung 990 PRO 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7450,
         "Performance": 1.0,
-        "Price ($)": 169.99
+        "Price": 169.99
     },
     {
         "Model": "Samsung 990 PRO 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7450,
         "Performance": 1.0,
-        "Price ($)": 99.99
+        "Price": 99.99
     },
     {
         "Model": "Crucial T500 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7400,
         "Performance": 0.99,
-        "Price ($)": 148.26
+        "Price": 148.26
     },
     {
         "Model": "WD_BLACK SN850X 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7300,
         "Performance": 0.98,
-        "Price ($)": 94.76
+        "Price": 94.76
     },
     {
         "Model": "Crucial T500 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7300,
         "Performance": 0.98,
-        "Price ($)": 84.16
+        "Price": 84.16
     },
     {
         "Model": "WD_BLACK 2TB SN850X 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7300,
         "Performance": 0.98,
-        "Price ($)": 147.95
+        "Price": 147.95
     },
     {
         "Model": "WD_BLACK SN850X 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 7300,
         "Performance": 0.98,
-        "Price ($)": 282.98
+        "Price": 282.98
     },
     {
         "Model": "990 EVO Plus 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7250,
         "Performance": 0.97,
-        "Price ($)": 139.99
+        "Price": 139.99
     },
     {
         "Model": "Crucial T500 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 7200,
         "Performance": 0.97,
-        "Price ($)": 72.99
+        "Price": 72.99
     },
     {
         "Model": "990 EVO Plus 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7150,
         "Performance": 0.96,
-        "Price ($)": 74.99
+        "Price": 74.99
     },
     {
         "Model": "Crucial P310 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7100,
         "Performance": 0.95,
-        "Price ($)": 129.95
+        "Price": 129.95
     },
     {
         "Model": "Crucial P310 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7100,
         "Performance": 0.95,
-        "Price ($)": 74.99
+        "Price": 74.99
     },
     {
-        "Model": "Samsung 980 Pro 500 GB M.2",
-        "Capacity": "500 GB",
+        "Model": "Samsung 980 Pro 500 M.2",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 7000,
         "Performance": 0.94,
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "Samsung 980 Pro 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 7000,
         "Performance": 0.94,
-        "Price ($)": 92.9
+        "Price": 92.9
     },
     {
         "Model": "Samsung 980 Pro 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 7000,
         "Performance": 0.94,
-        "Price ($)": 199.5
+        "Price": 199.5
     },
     {
         "Model": "Silicon Power US75 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 7000,
         "Performance": 0.94,
-        "Price ($)": 224.99
+        "Price": 224.99
     },
     {
         "Model": "Crucial T500 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 7000,
         "Performance": 0.94,
-        "Price ($)": 309.99
+        "Price": 309.99
     },
     {
         "Model": "Crucial P310 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 6600,
         "Performance": 0.89,
-        "Price ($)": 41.99
+        "Price": 41.99
     },
     {
         "Model": "WD Blue SN5000 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 5500,
         "Performance": 0.74,
-        "Price ($)": 249.99
+        "Price": 249.99
     },
     {
         "Model": "WD Blue SN5000 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 5150,
         "Performance": 0.69,
-        "Price ($)": 64.99
+        "Price": 64.99
     },
     {
         "Model": "WD_BLACK SN770 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 5150,
         "Performance": 0.69,
-        "Price ($)": 79.99
+        "Price": 79.99
     },
     {
         "Model": "WD_BLACK SN770 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 5150,
         "Performance": 0.69,
-        "Price ($)": 124.99
+        "Price": 124.99
     },
     {
         "Model": "990 EVO 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 129.99
+        "Price": 129.99
     },
     {
         "Model": "Crucial P3 Plus 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 219.99
+        "Price": 219.99
     },
     {
         "Model": "Crucial P3 Plus 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 61.16
+        "Price": 61.16
     },
     {
         "Model": "Crucial P3 Plus 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 36.99
+        "Price": 36.99
     },
     {
         "Model": "990 EVO 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 69.99
+        "Price": 69.99
     },
     {
         "Model": "Crucial P3 Plus 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 124.59
+        "Price": 124.59
     },
     {
         "Model": "Crucial P3 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 145.69
+        "Price": 145.69
     },
     {
         "Model": "Crucial P3 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 5000,
         "Performance": 0.67,
-        "Price ($)": 63.99
+        "Price": 63.99
     },
     {
         "Model": "Crucial P3 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 4800,
         "Performance": 0.64,
-        "Price ($)": 299.95
+        "Price": 299.95
     },
     {
         "Model": "Silicon Power UD90 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 4800,
         "Performance": 0.64,
-        "Price ($)": 105.97
+        "Price": 105.97
     },
     {
         "Model": "Silicon Power UD90 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 4800,
         "Performance": 0.64,
-        "Price ($)": 62.97
+        "Price": 62.97
     },
     {
         "Model": "Crucial P3 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 4700,
         "Performance": 0.63,
-        "Price ($)": 44.9
+        "Price": 44.9
     },
     {
         "Model": "Silicon Power UD90 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 4500,
         "Performance": 0.6,
-        "Price ($)": 214.99
+        "Price": 214.99
     },
     {
         "Model": "Western Digital SN580 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 4150,
         "Performance": 0.56,
-        "Price ($)": 64.99
+        "Price": 64.99
     },
     {
         "Model": "Western Digital SN580 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 4150,
         "Performance": 0.56,
-        "Price ($)": 113.0
+        "Price": 113.0
     },
     {
         "Model": "WD_BLACK SN770 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 4000,
         "Performance": 0.54,
-        "Price ($)": 61.78
+        "Price": 61.78
     },
     {
         "Model": "Western Digital SN580 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 4000,
         "Performance": 0.54,
-        "Price ($)": 41.76
+        "Price": 41.76
     },
     {
         "Model": "Silicon Power UD90 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 3850,
         "Performance": 0.52,
-        "Price ($)": 39.99
+        "Price": 39.99
     },
     {
         "Model": "Kingston NV2 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": 67.44
+        "Price": 67.44
     },
     {
         "Model": "Kingston NV2 4TB M.2",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": 241.77
+        "Price": 241.77
     },
     {
         "Model": "Kingston NV2 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": 119.5
+        "Price": 119.5
     },
     {
         "Model": "Kingston NV2 500GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": null
+        "Price": null
     },
     {
-        "Model": "Samsung 970 EVO Plus 500 GB M.2",
-        "Capacity": "500 GB",
+        "Model": "Samsung 970 EVO Plus 500 M.2",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "Samsung 970 EVO Plus 1 TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": 103.98
+        "Price": 103.98
     },
     {
         "Model": "Samsung 970 EVO Plus 2 TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 3500,
         "Performance": 0.47,
-        "Price ($)": 187.58
+        "Price": 187.58
     },
     {
         "Model": "Silicon Power P34A60 512GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 2200,
         "Performance": 0.3,
-        "Price ($)": 37.97
+        "Price": 37.97
     },
     {
         "Model": "Silicon Power P34A60 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 2200,
         "Performance": 0.3,
-        "Price ($)": 57.99
+        "Price": 57.99
     },
     {
         "Model": "Silicon Power P34A60 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 2200,
         "Performance": 0.3,
-        "Price ($)": 99.97
+        "Price": 99.97
     },
     {
         "Model": "TEAMGROUP MP33 1TB M.2",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "M.2",
         "Speed (MB/s)": 1800,
         "Performance": 0.24,
-        "Price ($)": 56.99
+        "Price": 56.99
     },
     {
         "Model": "TEAMGROUP MP33 2TB M.2",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "M.2",
         "Speed (MB/s)": 1800,
         "Performance": 0.24,
-        "Price ($)": 106.99
+        "Price": 106.99
     },
     {
         "Model": "TEAMGROUP MP33 512GB M.2",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "M.2",
         "Speed (MB/s)": 1700,
         "Performance": 0.23,
-        "Price ($)": 29.99
+        "Price": 29.99
     },
     {
         "Model": "SAMSUNG 870 EVO 2TB Sata III",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 159.99
+        "Price": 159.99
     },
     {
         "Model": "SAMSUNG 870 EVO 500GB Sata III",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 52.99
+        "Price": 52.99
     },
     {
         "Model": "Crucial MX500 4TB Sata III",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "SAMSUNG 870 EVO 1TB Sata III",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 96.08
+        "Price": 96.08
     },
     {
         "Model": "Crucial MX500 2TB Sata III",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 285.98
+        "Price": 285.98
     },
     {
         "Model": "Western Digital SA510 1TB Sata III",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 65.3
+        "Price": 65.3
     },
     {
         "Model": "SAMSUNG 870 EVO 4TB Sata III",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 269.99
+        "Price": 269.99
     },
     {
         "Model": "Western Digital SA510 500GB Sata III",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 46.28
+        "Price": 46.28
     },
     {
         "Model": "Western Digital SA510 2TB Sata III",
-        "Capacity": "2000 GB",
+        "Capacity": 2000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 123.49
+        "Price": 123.49
     },
     {
         "Model": "Western Digital SA510 4TB Sata III",
-        "Capacity": "4000 GB",
+        "Capacity": 4000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 242.49
+        "Price": 242.49
     },
     {
         "Model": "Crucial MX500 1TB Sata III",
-        "Capacity": "1000 GB",
+        "Capacity": 1000,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 92.89
+        "Price": 92.89
     },
     {
         "Model": "Crucial MX500 500GB Sata III",
-        "Capacity": "500 GB",
+        "Capacity": 500,
         "Type": "Sata III",
         "Speed (MB/s)": 560,
         "Performance": 0.08,
-        "Price ($)": 86.99
+        "Price": 86.99
     }
 ]

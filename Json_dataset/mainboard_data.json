@@ -3,401 +3,361 @@
         "Model": "ASUS ROG Maximus Z790 Dark Hero WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 999.0
+        "Price": 999.0
     },
     {
         "Model": "ASUS ROG Maximus Z790 Hero WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor, 12 inch x 9.6 inch (30.5 cm x 24.4 cm)",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
-        "Model": "ASUS ROG Strix X670E-E Gaming Wifi ATX DDR5",
+        "Model": "ASUS ROG Strix X670EnullE Gaming Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X670",
+        "WiFi": 1,
+        "Chipset": "X670",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
-        "Model": "ASUS ROG Strix Z790-E Gaming WiFi ATX DDR5",
+        "Model": "ASUS ROG Strix Z790nullE Gaming WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 499.0
+        "Price": 499.0
     },
     {
-        "Model": "ASUS ROG Strix Z790-A Gaming Wifi ATX DDR4 White",
+        "Model": "ASUS ROG Strix Z790nullA Gaming Wifi ATX DDR4 White",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 379.99
+        "Price": 379.99
     },
     {
-        "Model": "ASUS ROG Strix Z790-F 6E Wifi ATX DDR5",
+        "Model": "ASUS ROG Strix Z790nullF 6E Wifi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor, 12 inch x 9.6 inch (30.5 cm x 24.4 cm)",
-        "RAM Slots": "-",
-        "Price ($)": 495.0
+        "Price": 495.0
     },
     {
-        "Model": "ASUS ROG Strix B650-A Gaming WiFi 6E ATX DDR5",
+        "Model": "ASUS ROG Strix B650nullA Gaming WiFi 6E ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 199.99
+        "Price": 199.99
     },
     {
-        "Model": "ASUS ROG Strix B650E-A Gaming Wifi ATX DDR5 White",
+        "Model": "ASUS ROG Strix B650EnullA Gaming Wifi ATX DDR5 White",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 199.99
+        "Price": 199.99
     },
     {
-        "Model": "ASUS Prime Z790-A WiFi ATX DDR5",
+        "Model": "ASUS Prime Z790nullA WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 299.99
+        "Price": 299.99
     },
     {
         "Model": "GIGABYTE Z790 AORUS Elite AX Wifi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "-",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 189.99
+        "WiFi": 1,
+        "Chipset": null,
+        "Form Factor": null,
+        "Price": 189.99
     },
     {
-        "Model": "MSI PRO Z790-A MAX Wifi ATX White DDR5",
+        "Model": "MSI PRO Z790nullA MAX Wifi ATX White DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "INTEL Z790",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 254.63
+        "WiFi": 1,
+        "Chipset": "Z790",
+        "Form Factor": null,
+        "Price": 254.63
     },
     {
-        "Model": "ASUS ROG Strix B760-A Gaming Wifi ATX DDR5 White",
+        "Model": "ASUS ROG Strix B760nullA Gaming Wifi ATX DDR5 White",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
+        "WiFi": 1,
         "Chipset": "Intel® B760 Chipset",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 229.99
+        "Price": 229.99
     },
     {
-        "Model": "ASUS TUF Gaming Z790-Plus WiFi ATX DDR4",
+        "Model": "ASUS TUF Gaming Z790nullPlus WiFi ATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 458.0
+        "Price": 458.0
     },
     {
-        "Model": "ASUS TUF Gaming B650-PLUS WiFi ATX DDR5",
+        "Model": "ASUS TUF Gaming B650nullPLUS WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 179.99
+        "Price": 179.99
     },
     {
         "Model": "MSI MAG Z790 Tomahawk WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "INTEL Z790",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 268.95
+        "WiFi": 1,
+        "Chipset": "Z790",
+        "Form Factor": null,
+        "Price": 268.95
     },
     {
         "Model": "GIGABYTE B650 AORUS Elite AX Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 199.99
+        "Price": 199.99
     },
     {
         "Model": "MSI MAG B660 Tomahawk WiFi ATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "Intel® B660 Chipset",
+        "WiFi": 1,
+        "Chipset": "B660",
         "Form Factor": "ATX",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
-        "Model": "Asus ROG Strix B550-F Gaming WiFi ATX DDR4",
+        "Model": "Asus ROG Strix B550nullF Gaming WiFi ATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "AMD B550",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 154.99
+        "WiFi": 1,
+        "Chipset": "B550",
+        "Form Factor": null,
+        "Price": 154.99
     },
     {
         "Model": "GIGABYTE Z790 UD AC Wifi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "-",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 197.99
+        "WiFi": 1,
+        "Chipset": null,
+        "Form Factor": null,
+        "Price": 197.99
     },
     {
         "Model": "GIGABYTE B760 AORUS Elite AX Wifi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® B760 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "B760",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "GIGABYTE B650M AORUS Elite AX mATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD B650",
+        "Chipset": "B650",
         "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 188.37
+        "Price": 188.37
     },
     {
         "Model": "ASUS Prime B650 Plus ATX White DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD B650",
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor 12 inch x 9.6 inch (30.5 cm x 24.4 cm)",
-        "RAM Slots": "-",
-        "Price ($)": 183.36
+        "Price": 183.36
     },
     {
-        "Model": "ASUS Prime B650-PLUS ATX DDR5",
+        "Model": "ASUS Prime B650nullPLUS ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD B650",
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 183.36
+        "Price": 183.36
     },
     {
         "Model": "GIGABYTE B650 Gaming X AX ATX Wifi DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 174.99
+        "Price": 174.99
     },
     {
         "Model": "MSI B650 Gaming Plus WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 179.95
+        "WiFi": 1,
+        "Chipset": "B650",
+        "Form Factor": null,
+        "Price": 179.95
     },
     {
         "Model": "GIGABYTE Z790 AORUS Elite AX Wifi ATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 299.95
+        "Price": 299.95
     },
     {
-        "Model": "MSI PRO B760-P WiFi ATX DDR4",
+        "Model": "MSI PRO B760nullP WiFi ATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "INTEL B760",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 162.04
+        "WiFi": 1,
+        "Chipset": "B760",
+        "Form Factor": null,
+        "Price": 162.04
     },
     {
         "Model": "MSI B760 Gaming Plus WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "-",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 174.99
+        "WiFi": 1,
+        "Chipset": null,
+        "Form Factor": null,
+        "Price": 174.99
     },
     {
-        "Model": "ASRock B650M-HDV mATX DDR5",
+        "Model": "ASRock B650MnullHDV mATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD B650",
+        "Chipset": "B650",
         "Form Factor": "Micro ATX",
-        "RAM Slots": "-",
-        "Price ($)": 136.99
+        "Price": 136.99
     },
     {
         "Model": "GIGABYTE B760M DS3H AX Wifi mATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® B760 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "B760",
         "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 129.99
+        "Price": 129.99
     },
     {
         "Model": "Gigabyte B550 AORUS ELITE AX V2 WiFi ATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "AMD B550",
+        "WiFi": 1,
+        "Chipset": "B550",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 148.99
+        "Price": 148.99
     },
     {
-        "Model": "ASUS Prime B550-PLUS ATX DDR4 White",
+        "Model": "ASUS Prime B550nullPLUS ATX DDR4 White",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "AMD B550",
+        "Chipset": "B550",
         "Form Factor": "12 inch x 9.6 inch (30.5 cm x 24.4 cm), ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 119.99
+        "Price": 119.99
     },
     {
         "Model": "GIGABYTE B650M D3HP mATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD B650",
+        "Chipset": "B650",
         "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 149.98
+        "Price": 149.98
     },
     {
-        "Model": "MSI PRO Z790-A WiFi ATX DDR5",
+        "Model": "MSI PRO Z790nullA WiFi ATX DDR5",
         "Socket": 1700,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "INTEL Z790",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "WiFi": 1,
+        "Chipset": "Z790",
+        "Form Factor": null,
+        "Price": null
     },
     {
         "Model": "GIGABYTE B760M DS3H mATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "Intel® B760 Express Chipset",
+        "Chipset": "B760",
         "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 109.99
+        "Price": 109.99
     },
     {
-        "Model": "MSI B550-A PRO ATX DDR4",
+        "Model": "MSI B550nullA PRO ATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "AMD B550",
+        "Chipset": "B550",
         "Form Factor": "12 inch x 9.6 inch (30.5 cm x 24.4 cm), ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 114.99
+        "Price": 114.99
     },
     {
         "Model": "GIGABYTE B550M DS3H AC mATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "-",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 99.99
+        "Chipset": null,
+        "Form Factor": null,
+        "Price": 99.99
     },
     {
         "Model": "GIGABYTE B550M DS3H AC mATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "AMD B550",
+        "Chipset": "B550",
         "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 99.99
+        "Price": 99.99
     },
     {
-        "Model": "MSI PRO B760M-P mATX DDR4",
+        "Model": "MSI PRO B760MnullP mATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "INTEL B760",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 107.99
+        "Chipset": "B760",
+        "Form Factor": null,
+        "Price": 107.99
     },
     {
-        "Model": "MSI PRO B550-VC ATX DDR4",
+        "Model": "MSI PRO B550nullVC ATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
         "Chipset": "AMD® B550 Chipset",
         "Form Factor": "ATX",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "ASRock B660M Pro RS mATX DDR4",
@@ -405,348 +365,313 @@
         "RAM": "DDR4",
         "WiFi": "no",
         "Chipset": "Intel® B660",
-        "Form Factor": "Micro ATX Form Factor: 9.6-in x 9.6-in",
-        "RAM Slots": "-",
-        "Price ($)": 109.99
+        "Form Factor": "Micro ATX Form Factor: 9.6nullin x 9.6nullin",
+        "Price": 109.99
     },
     {
         "Model": "GIGABYTE H610M S2H V2 mATX DDR4",
         "Socket": 1700,
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "Intel® H610 Express Chipset",
+        "Chipset": "H610",
         "Form Factor": "Micro ATX Form Factor; 23.0cm x 21.5cm",
-        "RAM Slots": "-",
-        "Price ($)": 99.99
+        "Price": 99.99
     },
     {
-        "Model": "ASUS Prime B450M-A II mATX DDR4",
+        "Model": "ASUS Prime B450MnullA II mATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
         "Chipset": "AMD B450",
         "Form Factor": "Micro ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 130.0
+        "Price": 130.0
     },
     {
-        "Model": "ASRock A520M-HDV mATX DDR4",
+        "Model": "ASRock A520MnullHDV mATX DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "AMD A520",
-        "Form Factor": "Micro ATX Form Factor: 9.0-in x 7.9-in, 23.0 cm x 20.1 cm",
-        "RAM Slots": "-",
-        "Price ($)": 64.0
+        "Chipset": "A520",
+        "Form Factor": "Micro ATX Form Factor: 9.0nullin x 7.9nullin, 23.0 cm x 20.1 cm",
+        "Price": 64.0
     },
     {
         "Model": "ASRock B550M PRO4 mATX White DDR4",
         "Socket": "AM4",
         "RAM": "DDR4",
         "WiFi": "no",
-        "Chipset": "AMD B550",
-        "Form Factor": "Micro ATX Form Factor: 9.6-in x 9.6-in, 24.4 cm x 24.4 cm",
-        "RAM Slots": "-",
-        "Price ($)": 105.94
+        "Chipset": "B550",
+        "Form Factor": "Micro ATX Form Factor: 9.6nullin x 9.6nullin, 24.4 cm x 24.4 cm",
+        "Price": 105.94
     },
     {
         "Model": "MSI MAG X670E Tomahawk Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X670",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 242.0
+        "WiFi": 1,
+        "Chipset": "X670",
+        "Form Factor": null,
+        "Price": 242.0
     },
     {
         "Model": "GIGABYTE B650 Eagle AX Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 164.99
+        "Price": 164.99
     },
     {
-        "Model": "ASUS ROG Strix X870E-E Wifi ATX DDR5",
+        "Model": "ASUS ROG Strix X870EnullE Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 491.04
+        "Price": 491.04
     },
     {
         "Model": "GIGABYTE B650 AORUS Elite AX ATX DDR5 White",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 176.55
+        "Price": 176.55
     },
     {
-        "Model": "ASRock B650I Lightning WiFi m-ITX DDR5",
+        "Model": "ASRock B650I Lightning WiFi mnullITX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
-        "Form Factor": "Mini-ITX Form Factor: 6.7-in x 6.7-in, 17.0 cm x 17.0 cm",
-        "RAM Slots": "-",
-        "Price ($)": 199.99
+        "WiFi": 1,
+        "Chipset": "B650",
+        "Form Factor": "MininullITX Form Factor: 6.7nullin x 6.7nullin, 17.0 cm x 17.0 cm",
+        "Price": 199.99
     },
     {
         "Model": "GIGABYTE X870E AORUS Elite Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 317.03
+        "Price": 317.03
     },
     {
         "Model": "ASUS ROG Crosshair X870E Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 688.99
+        "Price": 688.99
     },
     {
-        "Model": "ASUS ROG Strix X870-A WiFi ATX DDR5 White",
+        "Model": "ASUS ROG Strix X870nullA WiFi ATX DDR5 White",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 299.99
+        "Price": 299.99
     },
     {
         "Model": "ASRock X870 Pro RS WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870",
-        "Form Factor": "ATX Form Factor: 12.0-in x 9.6-in",
-        "RAM Slots": "-",
-        "Price ($)": 219.99
+        "WiFi": 1,
+        "Chipset": "X870",
+        "Form Factor": "ATX Form Factor: 12.0nullin x 9.6nullin",
+        "Price": 219.99
     },
     {
         "Model": "GIGABYTE X870 AORUS Elite WIFI ATX DDR5 White",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 289.49
+        "Price": 289.49
     },
     {
         "Model": "GIGABYTE X870E AORUS Master Wifi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 529.0
+        "Price": 529.0
     },
     {
         "Model": "MSI X670E GAMING Wifi ATX DDR5 White",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X670",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 200.29
+        "WiFi": 1,
+        "Chipset": "X670",
+        "Form Factor": null,
+        "Price": 200.29
     },
     {
         "Model": "ASUS ProArt X870E Creator WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870E",
+        "WiFi": 1,
+        "Chipset": "X870E",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 539.86
+        "Price": 539.86
     },
     {
         "Model": "ASUS TUF Gaming X870 WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870",
+        "WiFi": 1,
+        "Chipset": "X870",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 243.0
+        "Price": 243.0
     },
     {
         "Model": "ASUS TUF Gaming X670E WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X670",
+        "WiFi": 1,
+        "Chipset": "X670",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 239.0
+        "Price": 239.0
     },
     {
-        "Model": "MSI PRO X870-P WiFi ATX DDR5",
+        "Model": "MSI PRO X870nullP WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD X870",
+        "WiFi": 1,
+        "Chipset": "X870",
         "Form Factor": "ATX",
-        "RAM Slots": "-",
-        "Price ($)": 244.99
+        "Price": 244.99
     },
     {
         "Model": "GIGABYTE B650 AORUS Elite ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
+        "WiFi": 1,
+        "Chipset": "B650",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 209.99
+        "Price": 209.99
     },
     {
         "Model": "MSI PRO A620M mATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
         "WiFi": "no",
-        "Chipset": "AMD A620",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 110.99
+        "Chipset": "A620",
+        "Form Factor": null,
+        "Price": 110.99
     },
     {
         "Model": "MSI MAG B650 Tomahawk WiFi ATX DDR5",
         "Socket": "AM5",
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "AMD B650",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 193.94
+        "WiFi": 1,
+        "Chipset": "B650",
+        "Form Factor": null,
+        "Price": 193.94
     },
     {
-        "Model": "ASUS Prime Strix Z790-P Gaming Wifi ATX DDR4 White",
+        "Model": "ASUS Prime Strix Z790nullP Gaming Wifi ATX DDR4 White",
         "Socket": 1700,
         "RAM": "DDR4",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z790 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z790",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": null
+        "Price": null
     },
     {
         "Model": "ASUS ROG Maximus Z890 Hero WiFi ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 558.73
+        "Price": 558.73
     },
     {
         "Model": "GIGABYTE Z890 AORUS PRO WiFi ATX DDR5 White",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 294.99
+        "Price": 294.99
     },
     {
         "Model": "GIGABYTE Z890 UD WiFi6E ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 167.95
+        "Price": 167.95
     },
     {
         "Model": "GIGABYTE Z890 AORUS Elite WiFi ATX DDR5 White",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 269.95
+        "Price": 269.95
     },
     {
         "Model": "GIGABYTE Z890 Eagle WiFi7 ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 224.95
+        "Price": 224.95
     },
     {
-        "Model": "ASUS ROG Strix Z890-E Gaming WiFi ATX DDR5",
+        "Model": "ASUS ROG Strix Z890nullE Gaming WiFi ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 449.99
+        "Price": 449.99
     },
     {
-        "Model": "ASUS PRIME Z890-P WiFi ATX DDR5 White",
+        "Model": "ASUS PRIME Z890nullP WiFi ATX DDR5 White",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor",
-        "RAM Slots": "-",
-        "Price ($)": 239.99
+        "Price": 239.99
     },
     {
         "Model": "GIGABYTE Z890 AORUS Master WiFi ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "Intel® Z890 Express Chipset",
+        "WiFi": 1,
+        "Chipset": "Z890",
         "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
-        "RAM Slots": "-",
-        "Price ($)": 404.99
+        "Price": 404.99
     },
     {
         "Model": "MSI Z890 Gaming Plus WiFi ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "INTEL Z890",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 289.99
+        "WiFi": 1,
+        "Chipset": "Z890",
+        "Form Factor": null,
+        "Price": 289.99
     },
     {
         "Model": "MSI MAG Z890 Tomahawk WiFi ATX DDR5",
         "Socket": 1851,
         "RAM": "DDR5",
-        "WiFi": "yes",
-        "Chipset": "INTEL Z890",
-        "Form Factor": "-",
-        "RAM Slots": "-",
-        "Price ($)": 373.12
+        "WiFi": 1,
+        "Chipset": "Z890",
+        "Form Factor": null,
+        "Price": 373.12
     }
 ]
