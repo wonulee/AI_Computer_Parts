@@ -1,27 +1,46 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Search</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <title>search</title>
+    <link rel="stylesheet" href="../static/search.css">
 </head>
 <body>
-    <h1>AI PC 부품 추천 시스템</h1>
-    
-    <label>예산($): <input type="number" id="budget" value="1000"></label><br>
-    <label>용도:
-        <select id="purpose">
-            <option value="gaming">Gaming</option>
-            <option value="office">Office</option>
-            <option value="editing">Editing</option>
-            <option value="AI/ML">AI/ML</option>
-        </select>
-    </label><br>
+    <header class="head">
+        <a href="/"><img id="logo" src="../static/image/web_logo.png" alt="web_logo"></a>
+        <h1>AI PC Builder</h1>
+    </header>
+    <form method="get" action="/">
+        <section>
+            <h2 id="buck">Get the most bang for your buck</h2>
+            <button id="subscribe">Subscribe for Real Time Pirces</button>
+        </section>
+    </form>
+    <form method="get" action="/search">
+        <label>How many dollars you want to spend ? <input type="number" name="budget" value="{{ budget or 1000 }}"></label><br>
+        <label> What type of PC do you want ?
+            <select name="purpose">
+                <option value="gaming" {% if purpose == "gaming" %}selected{% endif %}>Gaming</option>
+                <option value="office" {% if purpose == "office" %}selected{% endif %}>Office</option>
+                <option value="editing" {% if purpose == "editing" %}selected{% endif %}>Editing</option>
+                <option value="AI/ML" {% if purpose == "AI/ML" %}selected{% endif %}>AI/ML</option>
+            </select>
+        </label><br>
+        <button id="recommend" type="submit">Get My PC</button>
+    </form>
+    {% if result %}
+    <h2>추천 결과</h2>
+    <ul>
+        <li><strong>CPU:</strong> {{ result.CPU }}</li>
+        <li><strong>Mainboard:</strong> {{ result.Mainboard }}</li>
+        <li><strong>GPU:</strong> {{ result.GPU }}</li>
+        <li><strong>RAM:</strong> {{ result.RAM }}</li>
+        <li><strong>SSD:</strong> {{ result.SSD }}</li>
+        <li><strong>PSU:</strong> {{ result.PSU }}</li>
+        <li><strong>Total Performance:</strong> {{ result.Total_Performance }}</li>
+        <li><strong>Total Price:</strong> ${{ result.Total_Price }}</li>
+    </ul>
+    {% endif %}
 
-    <button onclick="getRecommendation()">추천 받기</button>
-
-    <pre id="result"></pre>
-
-    <script src="/static/script.js"></script>
 </body>
-</html> 
+</html>

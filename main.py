@@ -1,5 +1,5 @@
 from fastapi import FastAPI,Query
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi import Request
@@ -8,25 +8,53 @@ import pandas as pd
 
 app = FastAPI()
 
-# JSON 데이터 가져오기(Notebook)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cpu_data.json", 'r', encoding='utf-8') as file:
+# mac
+with open("./Json_dataset/cpu_data.json", 'r', encoding='utf-8') as file:
     cpu_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cpu_newdata.json", 'r', encoding='utf-8') as file:
+    
+with open("./Json_dataset/cpu_newdata.json", 'r', encoding='utf-8') as file:
     newcpu_data = json.load(file)    
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/gpu_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/gpu_data.json", 'r', encoding='utf-8') as file:
     gpu_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/ram_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/ram_data.json", 'r', encoding='utf-8') as file:
     ram_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/ssd_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/ssd_data.json", 'r', encoding='utf-8') as file:
     ssd_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/mainboard_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/mainboard_data.json", 'r', encoding='utf-8') as file:
     mainboard_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/psu_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/psu_data.json", 'r', encoding='utf-8') as file:
     psu_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cooler_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/cooler_data.json", 'r', encoding='utf-8') as file:
     cooler_data = json.load(file)
-with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/case_data.json", 'r', encoding='utf-8') as file:
+
+with open("./Json_dataset/case_data.json", 'r', encoding='utf-8') as file:
     case_data = json.load(file)
+
+# # JSON 데이터 가져오기(Notebook)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cpu_data.json", 'r', encoding='utf-8') as file:
+#     cpu_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cpu_newdata.json", 'r', encoding='utf-8') as file:
+#     newcpu_data = json.load(file)    
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/gpu_data.json", 'r', encoding='utf-8') as file:
+#     gpu_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/ram_data.json", 'r', encoding='utf-8') as file:
+#     ram_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/ssd_data.json", 'r', encoding='utf-8') as file:
+#     ssd_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/mainboard_data.json", 'r', encoding='utf-8') as file:
+#     mainboard_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/psu_data.json", 'r', encoding='utf-8') as file:
+#     psu_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/cooler_data.json", 'r', encoding='utf-8') as file:
+#     cooler_data = json.load(file)
+# with open("C:/Users/이원우/Documents/Project/AI_Computer_Parts/Json_dataset/case_data.json", 'r', encoding='utf-8') as file:
+#     case_data = json.load(file)
     
 # JSON 데이터 가져오기(Desktop)
 # with open("c:/Users/Home PC/Documents/AI_Computer_Parts/Json_dataset/cpu_data.json", 'r', encoding='utf-8') as file:
@@ -174,37 +202,37 @@ def recommend_build_with_compat(budget, purpose="gaming",top_n =12, mode="pp_rat
     return best_combo
 
 #결과 출력    
-result = recommend_build_with_compat(budget=1200, purpose="gaming")
-print(result)
+# result = recommend_build_with_compat(budget=1200, purpose="gaming")
+# print(result)
 
 # 이미지 불러오기
 app.mount('/static', StaticFiles(directory='static'), name='static')
 templates = Jinja2Templates(directory='templates')
 # ################################################################################
-#index.hmtl에서 불러오기
+#hmtl 연결
 @app.get("/", response_class=HTMLResponse)
 async def get_home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse("home.html", {"request": request})
 
-@app.get("/Home", response_class=HTMLResponse)
+@app.get("/home", response_class=HTMLResponse)
 async def get_home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse("home.html", {"request": request})
 
-@app.get("/About", response_class=HTMLResponse)
-async def get_home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+@app.get("/about", response_class=HTMLResponse)
+async def get_about(request: Request):
+    return templates.TemplateResponse("about.html", {"request": request})
 
-@app.get("/Contact", response_class=HTMLResponse)
-async def get_home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request}) 
+@app.get("/contact", response_class=HTMLResponse)
+async def get_contact(request: Request):
+    return templates.TemplateResponse("contact.html", {"request": request}) 
 
 @app.get("/search", response_class=HTMLResponse)
-async def get_search(request: Request, budget: int = None, purpose: str = 'gaming'):
-    result = ''
+async def get_search(request: Request, budget: int = None, purpose: str = None):
+    result = None
     if budget and purpose:
-        combo = recommend_build_with_compat(budget, purpose)
+        result = recommend_build_with_compat(budget, purpose)    
     return templates.TemplateResponse("search.html", {"request": request, 'result': result, 'budget':budget, 'purpose':purpose})
 
-@app.get("/FAQ", response_class=HTMLResponse)
-async def get_home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+@app.get("/faq", response_class=HTMLResponse)
+async def get_faq(request: Request):
+    return templates.TemplateResponse("faq.html", {"request": request})
