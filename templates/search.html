@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>AI PC 부품 추천 시스템</h1>
+    
+    <label>예산($): <input type="number" id="budget" value="1000"></label><br>
+    <label>용도:
+        <select id="purpose">
+            <option value="gaming">Gaming</option>
+            <option value="office">Office</option>
+            <option value="editing">Editing</option>
+            <option value="AI/ML">AI/ML</option>
+        </select>
+    </label><br>
+
+    <button onclick="getRecommendation()">추천 받기</button>
+
+    <pre id="result"></pre>
+
+    <script src="/static/script.js"></script>
+</body>
+</html> 
