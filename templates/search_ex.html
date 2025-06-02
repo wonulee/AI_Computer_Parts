@@ -34,6 +34,7 @@
         <tr>
             <th>Purpose</th>
             <th>{{ result.CPU }}</th>
+            <th>{{ result.CPU.Price }}</th>
         </tr>
         <tr>
             <th>Mainboard</th>
@@ -52,8 +53,12 @@
             <th>{{ result.SSD }}</th>
         </tr>
         <tr>
+            <th>PSU</th>
+            <th>{{ result.PSU }}</th>
+        </tr>
+        <tr>
             <th>Total Price</th>
-            <th>{{ result.Total_Price }}</th>
+            <th>{{ result.Total_Price }}$</th>
         </tr>
     </table>
     {% endif %}

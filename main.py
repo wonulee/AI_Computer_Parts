@@ -222,16 +222,20 @@ async def get_home(request: Request):
 async def get_about(request: Request):
     return templates.TemplateResponse("about.html", {"request": request})
 
-@app.get("/contact", response_class=HTMLResponse)
-async def get_contact(request: Request):
-    return templates.TemplateResponse("contact.html", {"request": request}) 
-
 @app.get("/search", response_class=HTMLResponse)
 async def get_search(request: Request, budget: int = None, purpose: str = None):
     result = None
     if budget and purpose:
         result = recommend_build_with_compat(budget, purpose)    
     return templates.TemplateResponse("search.html", {"request": request, 'result': result, 'budget':budget, 'purpose':purpose})
+
+# result
+@app.get("/search/result", response_class=HTMLResponse)
+async def get_search(request: Request, budget: int = None, purpose: str = None):
+    result = None
+    if budget and purpose:
+        result = recommend_build_with_compat(budget, purpose)    
+    return templates.TemplateResponse("result.html", {"request": request, 'result': result, 'budget':budget, 'purpose':purpose})
 
 @app.get("/faq", response_class=HTMLResponse)
 async def get_faq(request: Request):

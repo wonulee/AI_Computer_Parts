@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>result</title>
+    <link rel="stylesheet" href="../static/result.css">
+</head>
+  <main>
+    {% if result %}
+    <h2>Result Of Your PC</h2>
+    <table border="1">
+        <tr>
+            <th>Purpose</th>
+            <th>{{ result.CPU }}</th>
+        </tr>
+        <tr>
+            <th>Mainboard</th>
+            <th>{{ result.Mainboard }}</th>
+        </tr>
+        <tr>
+            <th>GPU</th>
+            <th>{{ result.GPU }}</th>
+        </tr>
+        <tr>
+            <th>RAM</th>
+            <th>{{ result.RAM }}</th>
+        </tr>
+        <tr>
+            <th>SSD</th>
+            <th>{{ result.SSD }}</th>
+        </tr>
+        <tr>
+            <th>PSU</th>
+            <th>{{ result.PSU }}</th>
+        </tr>
+        <tr>
+            <th>Total Price</th>
+            <th>{{ result.Total_Price }}$</th>
+        </tr>
+    </table>
+  </main>
+    {% endif %}
+</body>
+</html>
