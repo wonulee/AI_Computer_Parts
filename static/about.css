@@ -80,9 +80,9 @@ p.p {
 main#main1 form {
   justify-self: center;
   text-align: center;
-  height: 40px;
-  width: 220px;
   border-radius: 5px;
+  padding: 4px auto;
+  cursor: pointer;
 }
 
 button#start {
@@ -93,4 +93,5 @@ button#start {
   font-size: 18px;
   color: gray;
   border-radius: 5px;
+  cursor: pointer;
 }

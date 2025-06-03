@@ -1,44 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>result</title>
-    <link rel="stylesheet" href="../static/result.css">
+    <title>Result</title>
+    <link rel="stylesheet" href="/static/result.css">
 </head>
-  <main>
+
+<body>
+    <header>
+        <a href="/home"><img src="../static/image/web_bw.png" alt="로고" class="logo"></a>
+        <nav>
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/search" class="active">Search</a></li>
+                <li><a href="/faq">FAQ</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h2>Result of Your PC</h2>
+    <main id="bg">
     {% if result %}
-    <h2>Result Of Your PC</h2>
-    <table border="1">
-        <tr>
-            <th>Purpose</th>
-            <th>{{ result.CPU }}</th>
-        </tr>
-        <tr>
-            <th>Mainboard</th>
-            <th>{{ result.Mainboard }}</th>
-        </tr>
-        <tr>
-            <th>GPU</th>
-            <th>{{ result.GPU }}</th>
-        </tr>
-        <tr>
-            <th>RAM</th>
-            <th>{{ result.RAM }}</th>
-        </tr>
-        <tr>
-            <th>SSD</th>
-            <th>{{ result.SSD }}</th>
-        </tr>
-        <tr>
-            <th>PSU</th>
-            <th>{{ result.PSU }}</th>
-        </tr>
-        <tr>
-            <th>Total Price</th>
-            <th>{{ result.Total_Price }}$</th>
-        </tr>
-    </table>
-  </main>
+        <div>
+            <span class="parts" >CPU</span> <br><br>
+            <span class="component-box">{{ result.CPU }}</span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">Mainboard</span> <br> <br>
+            <span class="component-box">{{ result.Mainboard }}</span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">GPU</span><br><br>
+            <span class="component-box">{{ result.GPU }}</span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">RAM</span> <br><br>
+            <span class="component-box" >{{ result.RAM }}<span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">SSD</span><br><br>
+            <span class="component-box">{{ result.SSD }}</span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">PSU</span><br><br>
+            <span class="component-box">{{ result.PSU }}</span>
+        </div>
+<hr>
+        <div>
+            <span class="parts">Total Price :</span>
+            <span class="component-box">$ {{ result.Total_Price }}</span>
+        </div>
     {% endif %}
+    <a href="/search"><button>Go Back</button></a>
+    <br>
+    <br>
+    </main>
+
+
+    <!-- <form>
+        <div>
+        <h2>Your PC Recommendation Result</h2>
+        <p><strong>Budget:</strong> ${{ budget }}</p>
+        <p><strong>Purpose:</strong> ${{ purpose }}</p>
+        </div>
+
+        {% if result %}
+        <table border="1">
+            <tr><th>CPU</th><td>{{ result.CPU }}</td></tr>
+            <tr><th>Mainboard</th><td>{{ result.Mainboard }}</td></tr>
+            <tr><th>GPU</th><td>{{ result.GPU }}</td></tr>
+            <tr><th>RAM</th><td>{{ result.RAM }}</td></tr>
+            <tr><th>SSD</th><td>{{ result.SSD }}</td></tr>
+            <tr><th>PSU</th><td>{{ result.PSU }}</td></tr>
+            <tr><th>Total Price</th><td>${{ result.Total_Price }}</td></tr>
+        </table>
+        {% else %}
+        <p>No result found.</p>
+        {% endif %}
+        <a href="/search">Go back</a>
+    </form> -->
+
 </body>
+
 </html>

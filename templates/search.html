@@ -16,7 +16,7 @@
             <button id="subscribe">Subscribe for Real Time Pirces</button>
         </section>
     </form>
-    <form method="get" action="/search">
+    <form method="get" action="/search/result">
         <label>How many dollars you want to spend ? <input type="number" name="budget" value="{{ budget or 1000 }}"></label><br>
         <label> What type of PC do you want ?
             <select name="purpose">
@@ -28,48 +28,5 @@
         </label><br>
         <button id="recommend" type="submit">Get My PC</button>
     </form>
-    {% if result %}
-    <h2>Result Of Your PC</h2>
-    <table border="1">
-        <tr>
-            <th>Purpose</th>
-            <th>{{ result.CPU }}</th>
-        </tr>
-        <tr>
-            <th>Mainboard</th>
-            <th>{{ result.Mainboard }}</th>
-        </tr>
-        <tr>
-            <th>GPU</th>
-            <th>{{ result.GPU }}</th>
-        </tr>
-        <tr>
-            <th>RAM</th>
-            <th>{{ result.RAM }}</th>
-        </tr>
-        <tr>
-            <th>SSD</th>
-            <th>{{ result.SSD }}</th>
-        </tr>
-        <tr>
-            <th>Total Price</th>
-            <th>{{ result.Total_Price }}</th>
-        </tr>
-    </table>
-    {% endif %}
-    <!-- {% if result %}
-    <h2>추천 결과</h2>
-    <ul>
-        <li><strong>CPU:</strong> {{ result.CPU }}</li>
-        <li><strong>Mainboard:</strong> {{ result.Mainboard }}</li>
-        <li><strong>GPU:</strong> {{ result.GPU }}</li>
-        <li><strong>RAM:</strong> {{ result.RAM }}</li>
-        <li><strong>SSD:</strong> {{ result.SSD }}</li>
-        <li><strong>PSU:</strong> {{ result.PSU }}</li>
-        <li><strong>Total Performance:</strong> {{ result.Total_Performance }}</li>
-        <li><strong>Total Price:</strong> ${{ result.Total_Price }}</li>
-    </ul>
-    {% endif %} -->
-
 </body>
 </html>
